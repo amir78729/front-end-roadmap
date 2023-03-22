@@ -8,50 +8,51 @@
 
 **Table of Contents**
 
-- [Front-end roadmap](#front-end-roadmap)
-  * [Fundumentals](#fundumentals)
-    + [Internet](#internet)
-      - [Basics](#basics)
-      - [HTTP](#http)
-      - [Browsers](#browsers)
-      - [Domain Name](#domain-name)
-      - [DNS](#dns)
-      - [Hosting](#hosting)
-    + [HTML](#html)
-      - [Syntax](#syntax)
-        * [Basic Tags](#basic-tags)
-      - [Forms](#forms)
-      - [More Advance Topics](#more-advance-topics)
-        * [SVG](#svg)
-        * [SEO](#seo)
-        * [Best Practices](#best-practices)
-    + [CSS](#css)
-      - [Syntax](#syntax-1)
-      - [Box Model](#box-model)
-        * [Margin Collapsing](#margin-collapsing)
-      - [Selectors](#selectors)
-        * [Specificity](#specificity)
-        * [Pseudo Selectors](#pseudo-selectors)
-      - [Colors](#colors)
-      - [Calc](#calc)
-      - [Layout](#layout)
-        * [Flex](#flex)
-        * [Grid](#grid)
-      - [Responsive Design](#responsive-design)
-        * [Media Queries](#media-queries)
-        * [Relative Units](#relative-units)
-        * [Images](#images)
-      - [More Advance Topics](#more-advance-topics-1)
-        * [Transforms](#transforms)
-        * [Animations](#animations)
-        * [CSS Variables](#css-variables)
-        * [Best Practices](#best-practices-1)
-    + [JS](#js)
-  * [Package Managers](#package-managers)
-    + [npm](#npm)
-    + [yarn](#yarn)
-  * [Frameworks](#frameworks)
-    + [React](#react)
+- [Fundumentals](#fundumentals)
+  * [Internet](#internet)
+    + [Basics](#basics)
+    + [HTTP](#http)
+    + [Browsers](#browsers)
+    + [Domain Name](#domain-name)
+    + [DNS](#dns)
+    + [Hosting](#hosting)
+  * [HTML](#html)
+    + [Syntax](#syntax)
+      - [Basic Tags](#basic-tags)
+    + [Forms](#forms)
+    + [More Advance Topics](#more-advance-topics)
+      - [SVG](#svg)
+      - [SEO](#seo)
+      - [Best Practices](#best-practices)
+  * [CSS](#css)
+    + [Syntax](#syntax-1)
+    + [Box Model](#box-model)
+      - [Margin Collapsing](#margin-collapsing)
+    + [Selectors](#selectors)
+      - [Specificity](#specificity)
+      - [Pseudo Selectors](#pseudo-selectors)
+    + [Colors](#colors)
+    + [Calc](#calc)
+    + [Layout](#layout)
+      - [Flex](#flex)
+      - [Grid](#grid)
+    + [Responsive Design](#responsive-design)
+      - [Media Queries](#media-queries)
+      - [Relative Units](#relative-units)
+      - [Images](#images)
+    + [More Advance Topics](#more-advance-topics-1)
+      - [Transforms](#transforms)
+      - [Animations](#animations)
+      - [CSS Variables](#css-variables)
+      - [Best Practices](#best-practices-1)
+  * [JS](#js)
+- [Package Managers](#package-managers)
+  * [npm](#npm)
+  * [yarn](#yarn)
+- [Frameworks](#frameworks)
+  * [React](#react)
+- [Introduction of Some Cool Packages](#introduction-of-some-cool-packages)
+
 
 
 ## Fundumentals
@@ -59,9 +60,6 @@
 ### Internet
 
 > The Internet is a global network of computers connected to each other which communicate through a standardized set of protocols.
-
-<details>
-<summary>Internet Topics</summary>
 
 #### Basics
 
@@ -105,15 +103,13 @@
 
 
 - [Youtube - What Is Web Hosting? Explained](https://www.youtube.com/watch?v=htbY9-yggB0)
-<!-- end of internet -->
-</details>
+
+---
 
 ### HTML
 
 > HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web page's appearance/presentation (CSS) or functionality/behavior (JavaScript). ([MDN](https://developer.mozilla.org/en-US/docs/Web/HTML))
 
-<details>
-<summary>HTML Topics</summary>
 
 #### Syntax
 
@@ -158,16 +154,10 @@
 
 ---
 
-<!-- end of html -->
-</details>
-
-
 ### CSS
 
 > Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML. CSS describes how elements should be rendered on screen, on paper, in speech, or on other media. ([MDN](https://developer.mozilla.org/en-US/docs/Web/CSS))
 
-<details>
-<summary>CSS Topics</summary>
 
 #### Syntax
 
@@ -191,7 +181,7 @@
 - [Margin Collapse in CSS: What, Why, and How](https://medium.com/@joseph0crick/margin-collapse-in-css-what-why-and-how-328c10e37ca0)
 - [CSS Tricks - What You Should Know About Collapsing Margins](https://css-tricks.com/what-you-should-know-about-collapsing-margins/)
 - [What's the Deal with Collapsible Margins?](https://bitsofco.de/collapsible-margins/)
-- [What’s the Deal with Margin Collapse?](https://jonathan-harrell.com/whats-the-deal-with-margin-collapse/)
+- [What's the Deal with Margin Collapse?](https://jonathan-harrell.com/whats-the-deal-with-margin-collapse/)
 
 #### Selectors
 
@@ -312,21 +302,15 @@
 
 ---
 
-<!-- end of css -->
-</details>
 
 ### JS
 
 > JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. ([MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript))
 
-<details>
-<summary>JS Topics</summary>
 
 - [...]()
 
-<!-- end of js -->
-</details>
-
+---
 
 ## Package Managers
 
@@ -334,27 +318,15 @@
 
 > npm is a package manager for the JavaScript programming language maintained by npm, Inc. npm is the default package manager for the JavaScript runtime environment Node.js.
 
-<details>
-<summary>npm Topics</summary>
-
 - [...]()
-
-<!-- end of npm -->
-</details>
-
 
 ### yarn
 
 > Yarn is a software packaging system developed in 2016 by Facebook for Node.js JavaScript runtime environment that provides speed, consistency, stability, and security as an alternative to npm (package manager).
 
-
-<details>
-<summary>yarn Topics</summary>
-
 - [...]()
 
-<!-- end of yarn -->
-</details>
+---
 
 
 ## Frameworks
@@ -363,10 +335,20 @@
 
 > React is the most popular front-end JavaScript library for building user interfaces. React can also render on the server using Node and power mobile apps using React Native.
 
-<details>
-<summary>React Topics</summary>
-
 - [...]()
 
-<!-- end of npm -->
-</details>
+---
+
+## Introduction of Some Cool Packages
+
+
+
+| PackageName                                                    | Description                                                                                                         |
+|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| [`@mui/material`](https://www.npmjs.com/package/@mui/material) | MUI Core contains foundational React UI component libraries for shipping new features faster.                       |
+| [`react-query`](https://www.npmjs.com/package/react-query)     | Hooks for fetching, caching and updating asynchronous data in React                                                 |
+| [`framer-motion`](https://www.npmjs.com/package/framer-motion) | Motion powers Framer, the web builder for creative pros. Design and ship your dream site. Zero code, maximum speed. |
+| [`classnames`](https://www.npmjs.com/package/classnames)       | A simple JavaScript utility for conditionally joining classNames together.                                          |
+| [`react-lottie`](https://www.npmjs.com/package/react-lottie)   | Lightweight, scalable animations for websites                                                                       |
+| ...                                                            | ...                                                                                                                                                    |
+
