@@ -1,6 +1,43 @@
+<details>
+<summary>Table of Contents</summary>
+<br />
+
+- [Fundumentals](#fundumentals)
+  * [HTML](#html)
+    + [Syntax](#syntax)
+      - [Basic Tags](#basic-tags)
+    + [Forms](#forms)
+    + [More Advance Topics](#more-advance-topics)
+      - [SVG](#svg)
+      - [SEO](#seo)
+      - [Best Practices](#best-practices)
+  * [CSS](#css)
+    + [Syntax](#syntax-1)
+    + [Box Model](#box-model)
+      - [Margin Collapsing](#margin-collapsing)
+    + [Selectors](#selectors)
+      - [Specificity](#specificity)
+      - [Pseudo Selectors](#pseudo-selectors)
+    + [Colors](#colors)
+    + [Calc](#calc)
+    + [Layout](#layout)
+      - [Flex](#flex)
+      - [Grid](#grid)
+    + [Responsive Design](#responsive-design)
+      - [Media Queries](#media-queries)
+      - [Relative Units](#relative-units)
+      - [Images](#images)
+    + [More Advance Topics](#more-advance-topics-1)
+      - [Transforms](#transforms)
+      - [Animations](#animations)
+      - [CSS Variables](#css-variables)
+      - [Best Practices](#best-practices-1)
+
+</details>
+
 ## Fundumentals
 
-### HyperText Markup Language (HTML)
+### HTML
 
 #### Syntax
 
@@ -22,7 +59,7 @@
 
 #### More Advance Topics
 
-##### Scalable Vector Graphics (SVG)
+##### SVG
 
 - [MDN - Addin Vector Graphics to the Web](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web)
 - [SVG on the web](https://svgontheweb.com/)
@@ -44,7 +81,7 @@
 - [W3Schools - HTML Coding Conventions](https://www.w3schools.com/html/html5_syntax.asp)
 
 
-### Cascading Style Sheets (CSS)
+### CSS
 
 #### Syntax
 
@@ -128,18 +165,6 @@
 - [CSS Grid Garden](https://cssgridgarden.com/)
 - [Supercharged - CSS Grids](https://www.youtube.com/watch?v=AqwPrR7hklE)
 
-#### Transforms
-
-- [MDN - transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
-- [CSS Tricks - Transform](https://css-tricks.com/almanac/properties/t/transform/)
-- [My Knowledge Sharing with @malikarami - Advanced HTML and CSS](https://github.com/amir78729/automation-knowledge-sharing-1#-transition)
-
-##### Animations
-
-- [MDN - Using CSS animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
-- [CSS Tricks - Animation](https://css-tricks.com/almanac/properties/a/animation/)
-- [My Knowledge Sharing with @malikarami - Advanced HTML and CSS](https://github.com/amir78729/automation-knowledge-sharing-1#-animation)
-
 
 #### Responsive Design
 
@@ -170,16 +195,31 @@
 - [MDN - Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
 - [Virgool - My Article about Images on Web Pages](https://virgool.io/@a.alibakhshi/%D9%86%DA%A9%D8%A7%D8%AA-%D9%85%D9%81%DB%8C%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D8%B9%DA%A9%D8%B3-%D9%87%D8%A7-%D8%AF%D8%B1-%D8%B5%D9%81%D8%AD%D8%A7%D8%AA-%D9%88%D8%A8-yhyaswozumhj)
 
-#### CSS Variables
+
+#### More Advance Topics
+
+##### Transforms
+
+- [MDN - transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
+- [CSS Tricks - Transform](https://css-tricks.com/almanac/properties/t/transform/)
+- [My Knowledge Sharing with @malikarami - Advanced HTML and CSS](https://github.com/amir78729/automation-knowledge-sharing-1#-transition)
+
+##### Animations
+
+- [MDN - Using CSS animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
+- [CSS Tricks - Animation](https://css-tricks.com/almanac/properties/a/animation/)
+- [My Knowledge Sharing with @malikarami - Advanced HTML and CSS](https://github.com/amir78729/automation-knowledge-sharing-1#-animation)
+
+
+##### CSS Variables
 
 - [MDN - Using CSS custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 - [Google Devs - CSS Variables: Why Should You Care?](https://developers.google.com/web/updates/2016/02/css-variables-why-should-you-care)
 - [dev.to - CSS Quickies: CSS Variables](https://dev.to/lampewebdev/css-quickies-css-variables-or-how-you-create-a-white-dark-theme-easily-1i0i)
 - [CSS Variables explained with 5 examples](https://codeburst.io/css-variables-explained-with-5-examples-84adaffaa5bd)
 
-#### Best Practices
+##### Best Practices
 
 - [MDN - Organizing your CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing)
 - [MDN - CSS guidelines](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/CSS)
 - [Speckyboy - Good and bad CSS practices](https://speckyboy.com/good-bad-css-practices/)
-
