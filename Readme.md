@@ -6,44 +6,50 @@
 
 **Table of Contents**
 
-- [Fundumentals](#fundumentals)
-  * [Internet](#internet)
-    + [Basics](#basics)
-    + [HTTP](#http)
-    + [Browsers](#browsers)
-    + [Domain Name](#domain-name)
-    + [DNS](#dns)
-    + [Hosting](#hosting)
-  * [HTML](#html)
-    + [Syntax](#syntax)
-      - [Basic Tags](#basic-tags)
-    + [Forms](#forms)
-    + [More Advance Topics](#more-advance-topics)
-      - [SVG](#svg)
-      - [SEO](#seo)
-      - [Best Practices](#best-practices)
-  * [CSS](#css)
-    + [Syntax](#syntax-1)
-    + [Box Model](#box-model)
-      - [Margin Collapsing](#margin-collapsing)
-    + [Selectors](#selectors)
-      - [Specificity](#specificity)
-      - [Pseudo Selectors](#pseudo-selectors)
-    + [Colors](#colors)
-    + [Calc](#calc)
-    + [Layout](#layout)
-      - [Flex](#flex)
-      - [Grid](#grid)
-    + [Responsive Design](#responsive-design)
-      - [Media Queries](#media-queries)
-      - [Relative Units](#relative-units)
-      - [Images](#images)
-    + [More Advance Topics](#more-advance-topics-1)
-      - [Transforms](#transforms)
-      - [Animations](#animations)
-      - [CSS Variables](#css-variables)
-      - [Best Practices](#best-practices-1)
-
+- [Front-end roadmap](#front-end-roadmap)
+  * [Fundumentals](#fundumentals)
+    + [Internet](#internet)
+      - [Basics](#basics)
+      - [HTTP](#http)
+      - [Browsers](#browsers)
+      - [Domain Name](#domain-name)
+      - [DNS](#dns)
+      - [Hosting](#hosting)
+    + [HTML](#html)
+      - [Syntax](#syntax)
+        * [Basic Tags](#basic-tags)
+      - [Forms](#forms)
+      - [More Advance Topics](#more-advance-topics)
+        * [SVG](#svg)
+        * [SEO](#seo)
+        * [Best Practices](#best-practices)
+    + [CSS](#css)
+      - [Syntax](#syntax-1)
+      - [Box Model](#box-model)
+        * [Margin Collapsing](#margin-collapsing)
+      - [Selectors](#selectors)
+        * [Specificity](#specificity)
+        * [Pseudo Selectors](#pseudo-selectors)
+      - [Colors](#colors)
+      - [Calc](#calc)
+      - [Layout](#layout)
+        * [Flex](#flex)
+        * [Grid](#grid)
+      - [Responsive Design](#responsive-design)
+        * [Media Queries](#media-queries)
+        * [Relative Units](#relative-units)
+        * [Images](#images)
+      - [More Advance Topics](#more-advance-topics-1)
+        * [Transforms](#transforms)
+        * [Animations](#animations)
+        * [CSS Variables](#css-variables)
+        * [Best Practices](#best-practices-1)
+    + [JS](#js)
+  * [Package Managers](#package-managers)
+    + [npm](#npm)
+    + [yarn](#yarn)
+  * [Frameworks](#frameworks)
+    + [React](#react)
 
 
 ## Fundumentals
@@ -307,3 +313,58 @@
 <!-- end of css -->
 </details>
 
+### JS
+
+> JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. ([MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript))
+
+<details>
+<summary>JS Topics</summary>
+
+- [...]()
+
+<!-- end of js -->
+</details>
+
+
+## Package Managers
+
+### npm
+
+> npm is a package manager for the JavaScript programming language maintained by npm, Inc. npm is the default package manager for the JavaScript runtime environment Node.js.
+
+<details>
+<summary>npm Topics</summary>
+
+- [...]()
+
+<!-- end of npm -->
+</details>
+
+
+### yarn
+
+> Yarn is a software packaging system developed in 2016 by Facebook for Node.js JavaScript runtime environment that provides speed, consistency, stability, and security as an alternative to npm (package manager).
+
+
+<details>
+<summary>yarn Topics</summary>
+
+- [...]()
+
+<!-- end of yarn -->
+</details>
+
+
+## Frameworks
+
+### React
+
+> React is the most popular front-end JavaScript library for building user interfaces. React can also render on the server using Node and power mobile apps using React Native.
+
+<details>
+<summary>React Topics</summary>
+
+- [...]()
+
+<!-- end of npm -->
+</details>
