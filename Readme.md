@@ -4,8 +4,103 @@
 
 </div>
 
+*Table of Contents*
+
+- [Fundumentals](#fundumentals)
+  * [Internet](#internet)
+    + [Basics](#basics)
+    + [HTTP](#http)
+    + [Browsers](#browsers)
+    + [Domain Name](#domain-name)
+    + [DNS](#dns)
+    + [Hosting](#hosting)
+  * [HTML](#html)
+    + [Syntax](#syntax)
+      - [Basic Tags](#basic-tags)
+    + [Forms](#forms)
+    + [More Advance Topics](#more-advance-topics)
+      - [SVG](#svg)
+      - [SEO](#seo)
+      - [Best Practices](#best-practices)
+  * [CSS](#css)
+    + [Syntax](#syntax-1)
+    + [Box Model](#box-model)
+      - [Margin Collapsing](#margin-collapsing)
+    + [Selectors](#selectors)
+      - [Specificity](#specificity)
+      - [Pseudo Selectors](#pseudo-selectors)
+    + [Colors](#colors)
+    + [Calc](#calc)
+    + [Layout](#layout)
+      - [Flex](#flex)
+      - [Grid](#grid)
+    + [Responsive Design](#responsive-design)
+      - [Media Queries](#media-queries)
+      - [Relative Units](#relative-units)
+      - [Images](#images)
+    + [More Advance Topics](#more-advance-topics-1)
+      - [Transforms](#transforms)
+      - [Animations](#animations)
+      - [CSS Variables](#css-variables)
+      - [Best Practices](#best-practices-1)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 
 ## Fundumentals
+
+### Internet
+
+> The Internet is a global network of computers connected to each other which communicate through a standardized set of protocols.
+
+<details>
+<summary>Internet Topics</summary>
+
+#### Basics
+
+- [Stanford - How does the Internet Work?](http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
+- [Youtube - How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
+
+#### HTTP
+
+> HTTP is the `TCP/IP` based application layer communication protocol which standardizes how the client and server communicate with each other. HTTP follows a classical "Client-Server model" with a client opening a connection request, then waiting until it receives a response. HTTP is a stateless protocol, that means that the server does not keep any data (state) between two requests. ([MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP))
+
+- [MDN - An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+- [HTTPS in Comics!](https://howhttps.works/)
+
+
+#### Browsers
+
+> A web browser is a software application that enables a user to access and display web pages or other online content through its graphical user interface.
+
+- [MDN - Populating the page: how browsers work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
+- [Youtube - How Do Web Browsers Work?](https://www.youtube.com/watch?v=WjDrMKZWCt0)
+
+#### Domain Name
+
+> A domain name is a unique, easy-to-remember address used to access websites, such as `google.com`, and `facebook.com`. Users can connect to websites using domain names thanks to the Domain Name System (DNS).
+
+
+- [MDN - What is a Domain Name?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_domain_name)
+- [Youtube - A Beginners Guide to How Domain Names Work](https://www.youtube.com/watch?v=Y4cRx19nhJk)
+
+#### DNS
+
+> The Domain Name System (DNS) is the phonebook of the Internet. Humans access information online through domain names, like nytimes.com or espn.com. Web browsers interact through Internet Protocol (IP) addresses. DNS translates domain names to IP addresses so browsers can load Internet resources.
+
+- [cloudflare - What is DNS?](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
+- [Mess with DNS - DNS Playground](https://messwithdns.net/)
+- [DNS in Comics!](https://howdns.works/)
+
+#### Hosting 
+
+> Web hosting is an online service that allows you to publish your website files onto the internet. So, anyone who has access to the internet has access to your website.
+
+
+- [Youtube - What Is Web Hosting? Explained](https://www.youtube.com/watch?v=htbY9-yggB0)
+<!-- end of internet -->
+</details>
 
 ### HTML
 
@@ -14,32 +109,32 @@
 <details>
 <summary>HTML Topics</summary>
 
-### Syntax
+#### Syntax
 
 - [MDN - HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [MDN - Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 
-#### Basic Tags
+##### Basic Tags
 
 - [MDN - HTML element references](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [Tutorialspoinnt - Basic HTML tags](https://www.tutorialspoint.com/html/html_basic_tags.htm)
 - [Elated - Your First 10 HTML Tags](https://www.elated.com/first-10-html-tags/)
 - [W3Schools - HTML element references](https://www.w3schools.com/tags/ref_byfunc.asp)
 
-### Forms
+#### Forms
 
 - [MDN - HTML Forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
 - [Google Web - Forms](https://developers.google.com/web/fundamentals/design-and-ux/input/forms/)
 - [W3Schools - Forms](https://www.w3schools.com/html/html_forms.asp)
 
-### More Advance Topics
+#### More Advance Topics
 
-#### SVG
+##### SVG
 
 - [MDN - Addin Vector Graphics to the Web](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web)
 - [SVG on the web](https://svgontheweb.com/)
 
-#### SEO
+##### SEO
 
 - [web.dev - Discoverable](https://web.dev/discoverable/)
 - [Google Web - SEO Basics](https://developers.google.com/search/docs/guides/javascript-seo-basics)
@@ -50,7 +145,7 @@
 - [web.dev - Easily Discoverable](https://web.dev/discoverable/)
 
 
-#### Best Practices
+##### Best Practices
 
 - [MDN - HTML guidelines](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML)
 - [W3Schools - HTML Coding Conventions](https://www.w3schools.com/html/html5_syntax.asp)
@@ -68,7 +163,7 @@
 <details>
 <summary>CSS Topics</summary>
 
-### Syntax
+#### Syntax
 
 - [W3Schools - CSS Tutorial](https://www.w3schools.com/css/default.asp)
 - [MDN - CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
@@ -78,13 +173,13 @@
 - [MDN - CSS values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
 - [MDN - CSS Syntax](https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax)
 
-### Box Model
+#### Box Model
 
 - [MDN - Introduction to the CSS basic box model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
 - [MDN - The box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
 - [CSS Tricks - Inheriting box-sizing](https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
 
-#### Margin Collapsing
+##### Margin Collapsing
 
 - [MDN - Mastering margin collapsing](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing)
 - [Margin Collapse in CSS: What, Why, and How](https://medium.com/@joseph0crick/margin-collapse-in-css-what-why-and-how-328c10e37ca0)
@@ -92,7 +187,7 @@
 - [What's the Deal with Collapsible Margins?](https://bitsofco.de/collapsible-margins/)
 - [What’s the Deal with Margin Collapse?](https://jonathan-harrell.com/whats-the-deal-with-margin-collapse/)
 
-### Selectors
+#### Selectors
 
 - [MDN - CSS selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors)
 - [MDN - All selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
@@ -100,7 +195,7 @@
 - [CSS Tricks - All Selectors](https://css-tricks.com/almanac/selectors/)
 - [W3Schools - CSS Combinators](https://www.w3schools.com/css/css_combinators.asp)
 
-#### Specificity
+##### Specificity
 
 - [MDN - Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
 - [MDN - Cascade and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)
@@ -108,7 +203,7 @@
 - [Specificity Calculator](https://specificity.keegan.st/)
 - [W3Schools - CSS Specificity](https://www.w3schools.com/css/css_specificity.asp)
 
-#### Pseudo Selectors
+##### Pseudo Selectors
 
 - [MDN - Pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 - [CSS Tricks - Meet the Pseudo Class Selectors](https://css-tricks.com/pseudo-class-selectors/)
@@ -116,25 +211,25 @@
 - [W3Schools - CSS Pseudo-elements](https://www.w3schools.com/css/css_pseudo_elements.asp)
 - [W3Schools - CSS Pseudo-classes](https://www.w3schools.com/css/css_pseudo_classes.asp)
 
-### Colors
+#### Colors
 
 - [MDN - Color](https://developer.mozilla.org/en-US/docs/Web/CSS/color)
 - [MDN - <color>](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
 - [W3Schools - CSS Colors](https://www.w3schools.com/css/css_colors.asp)
 
-### Calc
+#### Calc
 
 - [MDN - Calc](https://developer.mozilla.org/en-US/docs/Web/CSS/calc)
 - [CSS Tricks - A Couple of Use Cases for Calc()](https://css-tricks.com/a-couple-of-use-cases-for-calc/)
 
-### Layout
+#### Layout
 
 - [Chrome Dev - Basic Layout](https://developers.google.com/training/certification/mobile-web-specialist/study-guide/basic-layout)
 - [W3Schools - CSS Website Layout](https://www.w3schools.com/css/css_website_layout.asp)
 - [MDN - Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 - [MDN - CSS layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
 
-#### Flex
+##### Flex
 
 - [MDN - Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 - [CSS Tricks - A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -142,7 +237,7 @@
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [Flexbox Defense](http://flexboxdefense.com)
 
-#### Grid
+##### Grid
 
 - [MDN - Grids](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
 - [CSS Tricks - A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
@@ -151,7 +246,7 @@
 - [Supercharged - CSS Grids](https://www.youtube.com/watch?v=AqwPrR7hklE)
 
 
-### Responsive Design
+#### Responsive Design
 
 - [MDN - Responsive design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
 - [Responsive Web Design Fundamentals by Google](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
@@ -160,13 +255,13 @@
 - [Google Dev - Responsive Content](https://developers.google.com/web/fundamentals/design-and-ux/responsive/content)
 - [Codelabs - Responsive Design](https://codelabs.developers.google.com/codelabs/pwa-responsive-design/index.html?index=..%2F..dev-pwa-training#0)
 
-#### Media Queries
+##### Media Queries
 
 - [CSS Tricks - CSS Media Queries & Using Available Space](https://css-tricks.com/css-media-queries/)
 - [MDN - Using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 - [MDN - Using Media Queries for Accessibility](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_Media_Queries_for_Accessibility)
 
-#### Relative Units
+##### Relative Units
 
 - [MDN - Sizing items in CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Sizing_items_in_CSS)
 - [MDN - CSS values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
@@ -174,36 +269,36 @@
 - [CSS Tricks - Fun with Viewport Units](https://css-tricks.com/fun-viewport-units/)
 - [dev.to - 15 CSS Relative units](https://dev.to/bytegasm/15-css-relative-units-how-many-do-you-know-em-rem-ex-cap-ch-ic-6m)
 
-#### Images
+##### Images
 
 - [Google Devs - Responsive Images](https://developers.google.com/web/fundamentals/design-and-ux/responsive/images)
 - [MDN - Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
 - [Virgool - My Article about Images on Web Pages](https://virgool.io/@a.alibakhshi/%D9%86%DA%A9%D8%A7%D8%AA-%D9%85%D9%81%DB%8C%D8%AF-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D8%B9%DA%A9%D8%B3-%D9%87%D8%A7-%D8%AF%D8%B1-%D8%B5%D9%81%D8%AD%D8%A7%D8%AA-%D9%88%D8%A8-yhyaswozumhj)
 
 
-### More Advance Topics
+#### More Advance Topics
 
-#### Transforms
+##### Transforms
 
 - [MDN - transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
 - [CSS Tricks - Transform](https://css-tricks.com/almanac/properties/t/transform/)
 - [My Knowledge Sharing with @malikarami - Advanced HTML and CSS](https://github.com/amir78729/automation-knowledge-sharing-1#-transition)
 
-#### Animations
+##### Animations
 
 - [MDN - Using CSS animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
 - [CSS Tricks - Animation](https://css-tricks.com/almanac/properties/a/animation/)
 - [My Knowledge Sharing with @malikarami - Advanced HTML and CSS](https://github.com/amir78729/automation-knowledge-sharing-1#-animation)
 
 
-#### CSS Variables
+##### CSS Variables
 
 - [MDN - Using CSS custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 - [Google Devs - CSS Variables: Why Should You Care?](https://developers.google.com/web/updates/2016/02/css-variables-why-should-you-care)
 - [dev.to - CSS Quickies: CSS Variables](https://dev.to/lampewebdev/css-quickies-css-variables-or-how-you-create-a-white-dark-theme-easily-1i0i)
 - [CSS Variables explained with 5 examples](https://codeburst.io/css-variables-explained-with-5-examples-84adaffaa5bd)
 
-#### Best Practices
+##### Best Practices
 
 - [MDN - Organizing your CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing)
 - [MDN - CSS guidelines](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/CSS)
