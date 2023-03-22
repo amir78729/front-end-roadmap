@@ -43,7 +43,6 @@
 - [MDN - HTML guidelines](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML)
 - [W3Schools - HTML Coding Conventions](https://www.w3schools.com/html/html5_syntax.asp)
 
----
 
 ### Cascading Style Sheets (CSS)
 
