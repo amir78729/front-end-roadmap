@@ -4,7 +4,7 @@
 
 </div>
 
-*Table of Contents*
+**Table of Contents**
 
 - [Fundumentals](#fundumentals)
   * [Internet](#internet)
@@ -43,8 +43,6 @@
       - [Animations](#animations)
       - [CSS Variables](#css-variables)
       - [Best Practices](#best-practices-1)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 
