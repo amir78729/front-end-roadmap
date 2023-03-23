@@ -4,8 +4,7 @@
 
 # Front-end roadmap
 
- In this article, we have tried to provide you with a number of useful links in order to learn front-end development
- 
+In this article, a number of useful links for learning front-end development have been collected. Hope you enjoy it! 
  
 </div>
 
