@@ -154,6 +154,11 @@ In this article, a number of useful links for learning front-end development hav
 - [MDN - HTML guidelines](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML)
 - [W3Schools - HTML Coding Conventions](https://www.w3schools.com/html/html5_syntax.asp)
 
+> 💁 **Suggestion!**
+> 1. Take [w3shools HTML quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML)
+> 2. Answer [HTML tests](/tests/html/test.md) in this repository
+> 3. Try to earn HTML badge on LinkedIn quiz 
+
 ---
 
 ### CSS
