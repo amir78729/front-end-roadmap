@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" height="200">
+
 ## HTML Questions
 
 _**Note**: These questions are collected from various sources such as LinkedIn and w3schools quiz's._
@@ -8,7 +10,7 @@ _**Note**: These questions are collected from various sources such as LinkedIn a
 
 #### What is the primary purpose of HTML?
 
-- [x] HTML structures the webpage, identifying its elements such as paragraphs, headings, and lists.
+- [ ] HTML structures the webpage, identifying its elements such as paragraphs, headings, and lists.
 - [ ] HTML structures and provides a rudimentary look to webpages.
 - [ ] HTML is responsible for the structure, styling, and interactivity of webpages.
 - [ ] HTML is responsible for the structure and styling of webpages.
@@ -18,12 +20,12 @@ _**Note**: These questions are collected from various sources such as LinkedIn a
 
 - [ ] The responsiveness of the website
 - [ ] The style of the website
-- [x] The core website structure
+- [ ] The core website structure
 - [ ] The behavior of web elements
 
 #### Choose the correct HTML element for the largest heading:
 
-- [x] `<h1>`
+- [ ] `<h1>`
 - [ ] `<h6>`
 - [ ] `<head>`
 - [ ] `<heading>`
@@ -39,7 +41,7 @@ _**Note**: These questions are collected from various sources such as LinkedIn a
 #### Which HTML element is the container for all the renderable aspects of the document?
 
 - [ ] head
-- [x] body
+- [ ] body
 - [ ] title
 - [ ] meta
 
@@ -48,7 +50,7 @@ _**Note**: These questions are collected from various sources such as LinkedIn a
 - [ ] head
 - [ ] horizontal
 - [ ] hypertext
-- [x] heading
+- [ ] heading
 
 
 
@@ -57,7 +59,7 @@ _**Note**: These questions are collected from various sources such as LinkedIn a
 - [ ] `<title><em>Exciting</em> title</title>`
 - [ ] `<title></title>`
 - [ ] `<title name="Exciting Title" />`
-- [x] `<title>Exciting title</title>`
+- [ ] `<title>Exciting title</title>`
 
 
 
@@ -65,7 +67,7 @@ _**Note**: These questions are collected from various sources such as LinkedIn a
 
 `<a target="_blank">...</a>`
 
-- [x] an attribute
+- [ ] an attribute
 - [ ] a tag
 - [ ] content
 - [ ] an element
@@ -76,7 +78,7 @@ _**Note**: These questions are collected from various sources such as LinkedIn a
 `<img src="https://source.unsplash.com/random">`
 
 - [ ] `<img>` should be paired with a `<caption>` tag.
-- [x] The `<img>` element is missing an alt attribute.
+- [ ] The `<img>` element is missing an alt attribute.
 - [ ] `<img>` is not a valid HTML element. Instead, use `<image src="..."/>`.
 - [ ] `<img>` should be nested within a `<figure>` tag.
 
@@ -86,7 +88,7 @@ _**Note**: These questions are collected from various sources such as LinkedIn a
 
 - [ ] assign
 - [ ] add tag
-- [x] anchor tag
+- [ ] anchor tag
 - [ ] none of the above
 
 
@@ -94,20 +96,20 @@ _**Note**: These questions are collected from various sources such as LinkedIn a
 
 - [ ] `<iframe>, <frame>, and <frameset>`
 - [ ] `<frame>`
-- [x] `<iframe>`
+- [ ] `<iframe>`
 - [ ] `<frame> and <frameset>`
 
 
 #### Where do `<header>` and `<footer>` tags typically occur?
 
 - [ ] as children of `<body>, <article>, <aside>, and <section>` tags
-- [x] as children of `<body>, <article>, and <section>` tags
+- [ ] as children of `<body>, <article>, and <section>` tags
 - [ ] as children of `<body>, <article>, <aside>, <nav>, and <section>` tags
 - [ ] as children of `<body>, <article>, <table>, and <section>` tags
 
 #### What is the best way to apply bold styling to text?
 
-- [x] `<strong>`
+- [ ] `<strong>`
 - [ ] Use CSS.
 - [ ] `<bold>`
 - [ ] `<b>`
@@ -115,13 +117,13 @@ _**Note**: These questions are collected from various sources such as LinkedIn a
 #### When is the `<link>` tag used?
 
 - [ ] when linking style sheets, JavaScript, and icons for mobile apps
-- [x] when linking style sheets, favicons, and preloading assets
+- [ ] when linking style sheets, favicons, and preloading assets
 - [ ] when linking one webpage to another
 - [ ] when linking style sheets, external URLs, and favicons
 
 #### When should you use the `<aside>` element?
 
-- [x] when the content can be removed without detracting from the page's message
+- [ ] when the content can be removed without detracting from the page's message
 - [ ] for anything you want to move to the side, like a pull quote box, a sidebar, or an image with text wrapping around it
 - [ ] for anything in parentheses
 - [ ] for anything in a sidebar
@@ -129,7 +131,7 @@ _**Note**: These questions are collected from various sources such as LinkedIn a
 #### With which tags is the `<source>` element associated?
 
 - [ ] `<svg>, <picture>, <audio>, and <video>`
-- [x] `<picture>, <audio>, and <video>`
+- [ ] `<picture>, <audio>, and <video>`
 - [ ] It is interchangeable with the `src` attribute, so any element which uses `src` may use `<source>`
 - [ ] `<audio> and <video>`
 
@@ -157,7 +159,7 @@ _**Note**: These questions are collected from various sources such as LinkedIn a
 </p>
 ```
 
-- [x] C
+- [ ] C
 
 ```html
 <details open>
@@ -181,7 +183,7 @@ _**Note**: These questions are collected from various sources such as LinkedIn a
 
 #### When should you use `<ol>` and `<ul>` elements?
 
-- [x] Use `<ul>` when you want a bulleted list and `<ol>` when you want a numbered list.
+- [ ] Use `<ul>` when you want a bulleted list and `<ol>` when you want a numbered list.
 - [ ] Use `<ul>` when you have a list of items in which the order of the items matters. Use `<ol>` when you have a list of items that could go in any order.
 - [ ] Use `<ol>` when you want a bulleted list and `<ul>` when you want a numbered list.
 - [ ] Use `<ol>` when you have a list of items in which the order of the items matters. Use `<ul>` when you have a list of items that could go in any order.
@@ -193,7 +195,7 @@ _**Note**: These questions are collected from various sources such as LinkedIn a
 On July 21, 1969, Neil Armstrong said, "One small step for man, one giant leap for mankind."
 ```
 
-- [x] A
+- [ ] A
 
 ```html
 <p>
@@ -237,7 +239,7 @@ On July 21, 1969, Neil Armstrong said, "One small step for man, one giant leap f
 
 #### What is the difference between the `<div>` and `<span>` tags?
 
-- [x] `<div>` is used where a generic block-level tag is needed, while `<span>` is used where a generic inline tag is needed.
+- [ ] `<div>` is used where a generic block-level tag is needed, while `<span>` is used where a generic inline tag is needed.
 - [ ] `<div>` is used for major divisions on a page, while `<span>` is used to span across columns.
 - [ ] `<div>` is the industry-standard default tag, but you could use `<span>` if you prefer.
 - [ ] `<div>` is used where a generic inline tag is needed, while `<span>` is used where a generic block-level tag is needed.
@@ -257,7 +259,7 @@ On July 21, 1969, Neil Armstrong said, "One small step for man, one giant leap f
 <img src="cubism.jpg" alt="Version of "Whistler's Mother" in cubist style">
 ```
 
-- [x] C
+- [ ] C
 
 ```html
 <img src="cubism.jpg" alt='Version of "Whistler\'s Mother" in cubist style'>
@@ -277,7 +279,7 @@ On July 21, 1969, Neil Armstrong said, "One small step for man, one giant leap f
 <p id="warning">Be careful when installing this product.</p>
 ```
 
-- [x] It establishes that id is a unique identifier in the document, used for styling CSS, scripting, and linking within a webpage.
+- [ ] It establishes that id is a unique identifier in the document, used for styling CSS, scripting, and linking within a webpage.
 - [ ] It establishes that id is a unique identifier in the document, used for styling CSS and with Javascript code.
 - [ ] It establishes that id may be used for styling CSS several times per page.
 - [ ] It establishes that id is a unique identifier in the website, used for styling CSS, scripting, and linking within a webpage.
@@ -288,7 +290,7 @@ On July 21, 1969, Neil Armstrong said, "One small step for man, one giant leap f
 ![Image of footer](images/ss-3.png)
 
 - [ ] ordered list
-- [x] unordered list inside a nav element
+- [ ] unordered list inside a nav element
 - [ ] ordered list inside a nav element
 - [ ] unordered list
 
@@ -332,7 +334,7 @@ On July 21, 1969, Neil Armstrong said, "One small step for man, one giant leap f
 </datalist>
 ```
 
-- [x] D
+- [ ] D
 
 ```html
 <label for="example">Make a choice:</label>
@@ -348,7 +350,7 @@ On July 21, 1969, Neil Armstrong said, "One small step for man, one giant leap f
 #### How do you confirm that a document is written in HTML5?
 
 - [ ] The server wraps the webpage in an HTML5 wrapper.
-- [x] Use the `<!DOCTYPE html>` declaration that starts the document.
+- [ ] Use the `<!DOCTYPE html>` declaration that starts the document.
 - [ ] The browser receives encoding from the server to display the document with HTML5.
 - [ ] It is enclosed in a `<html>` tag.
 
@@ -362,14 +364,14 @@ On July 21, 1969, Neil Armstrong said, "One small step for man, one giant leap f
 </picture>
 ```
 
-- [x] It displays image1.jpg at 1000px and higher, image2.jpg at 750-999px, and image3.jpg at 749px and lower.
+- [ ] It displays image1.jpg at 1000px and higher, image2.jpg at 750-999px, and image3.jpg at 749px and lower.
 - [ ] It displays image1.jps at 1000px and higher and image2.jpg at 750-999px, image3.jpg is a default in case `<picture>` is not supported.
 - [ ] It displays image1.jpg at 1000px and higher and image2.jpg at 750px and higher, image3.jpg is a default in case `<picture>` is not supported.
 - [ ] It displays image1.jpg, image2.jpg and image3.jpg at 1000px and higher.
 
 #### Which HTML snippet links back to the very top of a webpage?
 
-- [x] A
+- [ ] A
 
 ```html
 <a id="top"></a>
@@ -407,7 +409,7 @@ On July 21, 1969, Neil Armstrong said, "One small step for man, one giant leap f
 - [ ] `<kdb>`, `<pre>`
 - [ ] `<pre>`, `<code>`
 - [ ] `<kdb>`, `<mark>`
-- [x] `<code>`, `<pre>`
+- [ ] `<code>`, `<pre>`
 
 
 #### What does the `<label>` element do?
@@ -415,13 +417,13 @@ On July 21, 1969, Neil Armstrong said, "One small step for man, one giant leap f
 - [ ] It labels webpages with important information.
 - [ ] It creates an ID for a corresponding input element.
 - [ ] It overrides the name attribute's value on a child input element.
-- [x] It programmatically associates a text label with an interface element.
+- [ ] It programmatically associates a text label with an interface element.
 
 
 
 #### To get a link to open in a new window or tab, use the **\_** attribute
 
-- [x] `_blank`
+- [ ] `_blank`
 - [ ] `_self`
 - [ ] `_new`
 - [ ] `_parent`
@@ -451,7 +453,7 @@ On July 21, 1969, Neil Armstrong said, "One small step for man, one giant leap f
 </ul>
 ```
 
-- [x] B
+- [ ] B
 
 ```html
 <ul>
@@ -510,7 +512,7 @@ On July 21, 1969, Neil Armstrong said, "One small step for man, one giant leap f
 </blockquote>
 ```
 
-- [x] C
+- [ ] C
 
 ```html
 <blockquote>
@@ -538,13 +540,13 @@ On July 21, 1969, Neil Armstrong said, "One small step for man, one giant leap f
 
 - [ ] The element opener is `<p>`, the element closer is `</p>`, and the element information is info.
 - [ ] The start tag is `<p>`, the end tag is `</p>`, and the enclosed HTML is info.
-- [x] The start tag is `<p>`, the end tag is `</p>`, and the element content is info.
+- [ ] The start tag is `<p>`, the end tag is `</p>`, and the element content is info.
 - [ ] The start element is `<p>`, the end element is `</p>`, and the tag content is info.
 
 #### What is the difference between `<input type="submit" value="click me">` and `<button type="submit">Click me</button>`?
 
 - [ ] There is no difference. Both will render a button that submits a form.
-- [x] Both will submit a form. However, the `<button>` can have content other than text, like an image or nested HTML elements, while the `<input>` cannot.
+- [ ] Both will submit a form. However, the `<button>` can have content other than text, like an image or nested HTML elements, while the `<input>` cannot.
 - [ ] `<input type="button">` has been deprecated in HTML5. You should use the `<button>` tag instead.
 - [ ] Both will submit a form. However, the `<input>` can have content other than text, like an image or nested HTML elements, while the `<button>` cannot.
 
@@ -559,7 +561,7 @@ On July 21, 1969, Neil Armstrong said, "One small step for man, one giant leap f
 </audio>
 ```
 
-- [x] The browser chooses the first supported format to play with the browser's default controls.
+- [ ] The browser chooses the first supported format to play with the browser's default controls.
 - [ ] The browser chooses the best audio format to play with JavaScript-provided controls.
 - [ ] The browser plays each sound file in order automatically. The user has controls to stop playback.
 - [ ] The browser chooses the first supported sound file and will loop the sound until the user stops it.
@@ -569,14 +571,14 @@ On July 21, 1969, Neil Armstrong said, "One small step for man, one giant leap f
 
 - [ ] `<a href="mailto:email@example.com&subject=Hello">Click me</a>`
 - [ ] `<a href="mailto:email@example.com">Hello</a>`
-- [x] `<a href="mailto:email@example.com?subject=Hello">Click me</a>`
+- [ ] `<a href="mailto:email@example.com?subject=Hello">Click me</a>`
 - [ ] `<a href="mailto:email@example.com?&subject=Hello">Click me</a>`
 
 
 #### Which tag is the root element of an HTML document?
 
 - [ ] `<DOCTYPE html>`
-- [x] `<html>`
+- [ ] `<html>`
 - [ ] `<body>`
 - [ ] `<root>`
 
@@ -607,7 +609,7 @@ On July 21, 1969, Neil Armstrong said, "One small step for man, one giant leap f
 </tr>
 ```
 
-- [x] C
+- [ ] C
 
 ```html
 <tr>
@@ -640,14 +642,14 @@ On July 21, 1969, Neil Armstrong said, "One small step for man, one giant leap f
 
 - [ ] The text displays over the audio controls, unless CSS is used to position it elsewhere.
 - [ ] The text displays under the audio controls.
-- [x] The text displays when the browser cannot play the sound.
+- [ ] The text displays when the browser cannot play the sound.
 - [ ] The text never displays.
 
 
 #### What is the correct way to include a stylesheet named **style.css** in the `<head>` of your document?
 
 - [ ] `<style link="style.css">`
-- [x] `<link rel="stylesheet" href="style.css">`
+- [ ] `<link rel="stylesheet" href="style.css">`
 - [ ] `<style src="style.css"></style>`
 - [ ] `<link style="style.css">`
 
@@ -655,7 +657,7 @@ On July 21, 1969, Neil Armstrong said, "One small step for man, one giant leap f
 #### You want to have single spacing in between some lines, like in a poem or an address. Which approach should you use?
 
 - [ ] Wrap the text in a box that is the right width so everything wraps correctly. Set the box width with CSS.
-- [x] Separate lines with a `<p>`, then use CSS to make single spacing.
+- [ ] Separate lines with a `<p>`, then use CSS to make single spacing.
 - [ ] Use the `<pre>` tag to make the line spacing look exactly like you want.
 - [ ] Separate the lines with the `<br>` tag.
 
@@ -686,7 +688,7 @@ On July 21, 1969, Neil Armstrong said, "One small step for man, one giant leap f
 </nav>
 ```
 
-- [x] B
+- [ ] B
 
 ```html
 <nav>
@@ -744,20 +746,20 @@ On July 21, 1969, Neil Armstrong said, "One small step for man, one giant leap f
 - [ ] `//this is a comment`
 - [ ] `/* this is a comment */`
 - [ ] `<! this is a comment ->`
-- [x] `<!-- this is a comment -->`
+- [ ] `<!-- this is a comment -->`
 
 #### Which statement is **false**?
 
 - [ ] Inline elements can be nested inside inline elements.
 - [ ] Block elements can be nested inside block elements.
 - [ ] Inline elements can be nested inside block elements.
-- [x] Block elements can be nested inside inline elements.
+- [ ] Block elements can be nested inside inline elements.
 
 #### What is the best semantic to use Quotes in HTML?
 
 `Steve Kruz Said: "He will Win"`
 
-- [x] `<q>`
+- [ ] `<q>`
 - [ ] `<quote>`
 - [ ] `<blockquote>`
 - [ ] `<notation>`
@@ -768,7 +770,7 @@ On July 21, 1969, Neil Armstrong said, "One small step for man, one giant leap f
 
 - [ ] There is only one `<head>` tag per page, while there may be many `<header>` tags.
 - [ ] The `<head>` tag may contain CSS and Javascript links, while the `<header>` tag may contain headings and navigational links.
-- [x] all of these answers
+- [ ] all of these answers
 - [ ] The `<head>` tag contains meta information, while the `<header>` tag contains navigation, logos, and other page identifying content.
 
 
@@ -819,7 +821,7 @@ On July 21, 1969, Neil Armstrong said, "One small step for man, one giant leap f
 </table>
 ```
 
-- [x] C
+- [ ] C
 
 ```html
 <table>
@@ -852,7 +854,7 @@ On July 21, 1969, Neil Armstrong said, "One small step for man, one giant leap f
 ![Image of footer](images/ss-7.png)
 
 - [ ] `<a href="../work/info.html">See Information </a>`
-- [x] `<a href="../info.html">See Information </a>`
+- [ ] `<a href="../info.html">See Information </a>`
 - [ ] `<a href="../../info.html">See Information </a>`
 - [ ] `<a href="info.html">See Information </a>`
 
@@ -860,7 +862,7 @@ On July 21, 1969, Neil Armstrong said, "One small step for man, one giant leap f
 
 #### Which snippet of HTML, when clicked, makes a phone call on a mobile device?
 
-- [x] `<a href="tel:802-555-1212">Call me</a>`
+- [ ] `<a href="tel:802-555-1212">Call me</a>`
 - [ ] `<a href="phone">802-555-1212</a>`
 - [ ] `<a href="tel">802-555-1212</a>`
 - [ ] `<a href="phone:802-555-1212">Call me</a>`
@@ -871,7 +873,7 @@ On July 21, 1969, Neil Armstrong said, "One small step for man, one giant leap f
       separated by spaces.
 - [ ] Classes allow CSS and JavaScript to select specific elements on the page. You may list only one class name per class attribute.
 - [ ] Classes allow CSS to select specific elements on the page. You may list only one class name per class attribute.
-- [x] Classes allow CSS and JavaScript to select specific elements on the page. You may list as many class names within the class attribute
+- [ ] Classes allow CSS and JavaScript to select specific elements on the page. You may list as many class names within the class attribute
       as you wish, separated by spaces.
 
 
@@ -880,7 +882,7 @@ On July 21, 1969, Neil Armstrong said, "One small step for man, one giant leap f
 - [ ] `<input type="color">`
 - [ ] `<input type="tel">`
 - [ ] `<input type="week">`
-- [x] `<input type="num">`
+- [ ] `<input type="num">`
 
 
 #### What is the most semantic way to mark up this sentence so that "happy talk must die" is rendered as an inline quote?
@@ -890,7 +892,7 @@ As Steve Krug once said, happy talk must die.
 - [ ] `<p>`As Steve Krug once said, `<b>`happy talk must die.`</b>` `</p>`
 - [ ] `<p>`As Steve Krug once said, `<i>`happy talk must die.`</i>` `</p>`
 - [ ] `<p>`As Steve Krug once said, `<blockquote>`happy talk must die.`</blockquote>` `</p>`
-- [x] `<p>`As Steve Krug once said, `<q>`happy talk must die.`</q>` `</p>`
+- [ ] `<p>`As Steve Krug once said, `<q>`happy talk must die.`</q>` `</p>`
 
 
 **`<q>` tag**
@@ -930,7 +932,7 @@ As Steve Krug once said, happy talk must die.
 </nav>
 ```
 
-- [x] D
+- [ ] D
 
 ```html
 <nav>
@@ -953,7 +955,7 @@ As Steve Krug once said, happy talk must die.
 </details>
 ```
 
-- [x] A
+- [ ] A
       ![A](images/Q84-1.jpg)
 - [ ] B
       ![B](images/Q84-2.jpg)
@@ -972,7 +974,7 @@ As Steve Krug once said, happy talk must die.
 - [ ] The `<label>` and `<input>` should be nested inside of a `<fieldset>` element.
 - [ ] **"address"** is not a valid value for the attribute **name** on an `<input>` element.
 - [ ] The `<label>` element is missing an **id** set to "address-input".
-- [x] The `<label>` element is missing a **for** attribute set to "address-input".
+- [ ] The `<label>` element is missing a **for** attribute set to "address-input".
 
 
 
@@ -986,7 +988,7 @@ As Steve Krug once said, happy talk must die.
 <input type="radio" name="example" /> Choice 3
 ```
 
-- [x] :
+- [ ] :
 
 ```html
 <input type="checkbox" name="example" /> Choice 1 <br />
@@ -1017,12 +1019,12 @@ As Steve Krug once said, happy talk must die.
 - [ ] `<metadata name="author" content="Author Name">`
 - [ ] `<meta name="author">Author Name</meta>`
 - [ ] `<meta name="creator" content="Author Name">`
-- [x] `<meta name="author" content="Author Name">`
+- [ ] `<meta name="author" content="Author Name">`
 
 #### Given the following requirements, select the correct `input` configuration: An `input` that allows the user to select from a range of integer values between 0 and 100 (inclusive) in increments of 5
 
 - [ ] `<input type="range" min="0" max="100" by="5" />`
-- [x] `<input type="range" min="0" max="100" step="5" />`
+- [ ] `<input type="range" min="0" max="100" step="5" />`
 - [ ] `<input type="number" min="0" max="100" step="5" />`
 - [ ] `<input type="number" min="0" max="100" by="5" />`
 
@@ -1042,7 +1044,7 @@ As Steve Krug once said, happy talk must die.
 - [ ] small.jpg
 - [ ] medium.jpg
 - [ ] none of them
-- [x] large.jpg
+- [ ] large.jpg
 
 
 
@@ -1059,7 +1061,7 @@ As Steve Krug once said, happy talk must die.
 ```
 
 - [ ] Nothing is wrong.
-- [x] `<ul>` cannot contain a heading element as a direct child.
+- [ ] `<ul>` cannot contain a heading element as a direct child.
 - [ ] An `<h1>` should be used here instead of an `<h2>` tag.
 - [ ] Only `<ol>` allows direct descendants to contain elements other than an `<li>`, so use an `<ol>` here instead.
 
@@ -1081,7 +1083,7 @@ As Steve Krug once said, happy talk must die.
 
 - [ ] async, external module, defer, inline module
 - [ ] async, inline module, external module, defer
-- [x] external module, async, defer, inline module
+- [ ] external module, async, defer, inline module
 - [ ] inline module, external module, defer, async
 
 #### Users report that a form is not working. What is the culprit?
@@ -1099,7 +1101,7 @@ As Steve Krug once said, happy talk must die.
   </form>
 ```
 
-- [x] There is no <input type="submit"> element.
+- [ ] There is no <input type="submit"> element.
 - [ ] There is no method set on the form.
 - [ ] The form element is disabled.
 - [ ] The fieldset is disabled.
@@ -1110,12 +1112,12 @@ As Steve Krug once said, happy talk must die.
 - [ ] The `<track>` tag is used for specifying subtitles. It is typically applied as a child of the `<audio>` and `<video>` tags.
 - [ ] The `<track>` tag is used for specifying subtitles. It is typically applied as a child of the `<video>` tag.
 - [ ] The `<track>` tag is used for specifying subtitles, captions, and other types of time-based text. It is typically applied as a child of the `<video>` tag.
-- [x] The `<track>` tag is used for specifying subtitles, captions, and other types of time-based text. It is typically applied as a child of the `<audio>` and `<video>` tag.
+- [ ] The `<track>` tag is used for specifying subtitles, captions, and other types of time-based text. It is typically applied as a child of the `<audio>` and `<video>` tag.
 
 #### ⭐️  What are the best examples of void elements?
 
 - [ ] `<link><meta><title>`
-- [x] `<br><base><source>`
+- [ ] `<br><base><source>`
 - [ ] `<input><br><p>`
 - [ ] `<area><embed><strong>`
 
@@ -1134,7 +1136,7 @@ As Steve Krug once said, happy talk must die.
 </address>
 ```
 
-- [x] `itemscope` `itemtype="http://schema.org/PostalAddress"`
+- [ ] `itemscope` `itemtype="http://schema.org/PostalAddress"`
 - [ ] `itemsref="http://schema.org/PostalAddress"` `itemid="address"`
 - [ ] `itemscope` `itemref="http://schema.org/PostalAddress"`
 - [ ] `itemid="address"` `itemtype="http://schema.org/PostalAddress"`
@@ -1144,7 +1146,7 @@ As Steve Krug once said, happy talk must die.
 #### ⭐️  What is NOT a valid attribute for the `<textarea>` element?
 
 - [ ] readonly
-- [x] max
+- [ ] max
 - [ ] form
 - [ ] spellcheck
 
@@ -1154,7 +1156,7 @@ As Steve Krug once said, happy talk must die.
 
 - [ ] It connects the web browser to a SA-MP server.
 - [ ] It identifies enclosed text as a sampler or an example.
-- [x] It identifies sample output from a computer program.
+- [ ] It identifies sample output from a computer program.
 - [ ] It uses a simple application messaging protocol to connect the browser to a texting device.
 
 
@@ -1163,7 +1165,7 @@ As Steve Krug once said, happy talk must die.
 - [ ] post is used for sending information to the server. get is used for retrieving form information from the server.
 - [ ] get is used for sending information to the server. post is used for retrieving form information from the server.
 - [ ] With get, data is included in the form body when send to the server. With post, the data goes through the URL.
-- [x] With post, data is included in the form body when send to the server. With get, the data goes through the URL.
+- [ ] With post, data is included in the form body when send to the server. With get, the data goes through the URL.
 
 
 
@@ -1173,7 +1175,7 @@ As Steve Krug once said, happy talk must die.
 <form method="post" action="mailto:info@linkedin.com" ____="text/plain"></form>
 ```
 
-- [x] enctype
+- [ ] enctype
 - [ ] media
 - [ ] type
 - [ ] rel
@@ -1188,7 +1190,7 @@ As Steve Krug once said, happy talk must die.
 
 - [ ] es
 - [ ] es-spanish
-- [x] es-es
+- [ ] es-es
 - [ ] spanish
 
 
@@ -1214,7 +1216,7 @@ As Steve Krug once said, happy talk must die.
 </table>
 ```
 
-- [x] B
+- [ ] B
 
 ```html
 <table>
@@ -1282,14 +1284,14 @@ As Steve Krug once said, happy talk must die.
 ```
 
 - [ ] `itemprop="aggregateRating" itemref="http://schema.org/AggregateRating"`
-- [x] `itemprop="aggregateRating" itemtype="http://schema.org/AggregateRating"`
+- [ ] `itemprop="aggregateRating" itemtype="http://schema.org/AggregateRating"`
 - [ ] `itemid="aggregateRating" itemtype="http://schema.org/AggregateRating"`
 - [ ] `itemid="aggregateRating" itemref="http://schema.org/AggregateRating"`
 
 
 #### ⭐️  Which three tags where deprecated in HTML4 but returned to HTML5?
 
-- [x] `<rb> <rp> <rt>`
+- [ ] `<rb> <rp> <rt>`
 - [ ] `<acronym> <code> <wbr>`
 - [ ] `<hgroup> <q> <wbr>`
 - [ ] `<b> <i> <u>`
@@ -1313,7 +1315,7 @@ As Steve Krug once said, happy talk must die.
 <p>We are fond of our TLAs in web design.</p>
 ```
 
-- [x] C
+- [ ] C
 
 ```html
 <p>we are fond of our <abbr title="three-letter acronyms">TLAs</abbr> in web design.</p>
@@ -1335,18 +1337,18 @@ As Steve Krug once said, happy talk must die.
 - [ ] title
 - [ ] type
 - [ ] device
-- [x] media
+- [ ] media
 
 #### ⭐️  What is the best semantic way to indicate that text refers to keyboard entry?
 
 - [ ] `<p>Press the <tt>Enter</tt> key to proceed.</p>`
-- [x] `<p>Press the <kbd>Enter</kbd> key to proceed.</p>`
+- [ ] `<p>Press the <kbd>Enter</kbd> key to proceed.</p>`
 - [ ] `<p>Press the <samp>Enter</samp> key to proceed.</p>`
 - [ ] `<p>Press the Enter key to proceed.</p>`
 
 #### ⭐️  What attribute applies a keyboard shortcut hint to the current element?
 
-- [x] `accesskey`
+- [ ] `accesskey`
 - [ ] `shortcut`
 - [ ] `keyboard`
 - [ ] `access`
@@ -1355,7 +1357,7 @@ As Steve Krug once said, happy talk must die.
 
 #### ⭐️  Which choice is NOT a legal value for the **name** attribute within a `<meta>` tag?
 
-- [x] charset
+- [ ] charset
 - [ ] viewport
 - [ ] generator
 - [ ] author
@@ -1388,7 +1390,7 @@ As Steve Krug once said, happy talk must die.
 </form>
 ```
 
-- [x] C
+- [ ] C
 
 ```html
 <form>
@@ -1414,7 +1416,7 @@ As Steve Krug once said, happy talk must die.
 
 #### ⭐️  What does the **poster** attribute do in the `<video>` tag?
 
-- [x] It specifies an image that should display while the video downloads and until the video is played.
+- [ ] It specifies an image that should display while the video downloads and until the video is played.
 - [ ] It specifies an image that only displays if there is a problem with the video.
 - [ ] It specifies an image that should display until the video is played.
 - [ ] It specifies an image that should display while the video downloads.
@@ -1423,14 +1425,14 @@ As Steve Krug once said, happy talk must die.
 
 - [ ] It allows raster images to be rendered on the webpage.
 - [ ] It displays annotated images.
-- [x] It allows drawing on a bitmap via JavaScript.
+- [ ] It allows drawing on a bitmap via JavaScript.
 - [ ] It allows vector images to be rendered on the webpage.
 
 #### ⭐️  Which choice contains three valid block-level elements?</li>
 
 - [ ] `<details> <abbr> <figcaption>`
 - [ ] `<canvas> <select> <noscript>`
-- [x] `<dt> <table> <pre>`
+- [ ] `<dt> <table> <pre>`
 - [ ] `<kbd> <p> <main>`
 
 #### ⭐️  In the code below, what is the purpose of the **lang** attribute?
@@ -1441,7 +1443,7 @@ As Steve Krug once said, happy talk must die.
 
 - [ ] It establishes the language for the website—in this case, English.
 - [ ] It establishes the language and dialect for the website—in this case, British English.
-- [x] It establishes the language and dialect for the paragraph—in this case, British English.
+- [ ] It establishes the language and dialect for the paragraph—in this case, British English.
 - [ ] It establishes the language for the paragraph—in this case, English.
 
 #### ⭐️  Which image formats can be displayed by all web browsers?
@@ -1449,7 +1451,7 @@ As Steve Krug once said, happy talk must die.
 - [ ] JPG, GIF, TIF
 - [ ] JPG, TIF, BMP
 - [ ] TIF, BMP, GIF
-- [x] PNG, GIF, JPG
+- [ ] PNG, GIF, JPG
 
 #### ⭐️  Review the code below. What is the absolute URL for a page called **page.html**?
 
@@ -1457,7 +1459,7 @@ As Steve Krug once said, happy talk must die.
 <base href="http://www.linkedin.com/dir/" />
 ```
 
-- [x] `http://www.linkedin.com/dir/page.html`
+- [ ] `http://www.linkedin.com/dir/page.html`
 - [ ] `page.html`
 - [ ] `http://www.linkedin.com/page.html`
 - [ ] `dir/page.html`
@@ -1467,13 +1469,13 @@ As Steve Krug once said, happy talk must die.
 - [ ] It requires the browser to wrap the current line at that point.
 - [ ] It breaks a word into two pieces, using a hyphen to connect the words.
 - [ ] It formats a sentence to be easily breakable.
-- [x] It presents an opportunity for a break in a very long word, if needed for proper page display.
+- [ ] It presents an opportunity for a break in a very long word, if needed for proper page display.
 
 
 #### ⭐️  How will a video look displayed on a fully loaded webpage if the `<video>` tag is used and the **autoplay** attribute is not set?
 
 - [ ] It will display a random frame from a video, unless the **poster** attribute is set.
-- [x] It will display the first frame of the video, unless the **poster** attribute is set.
+- [ ] It will display the first frame of the video, unless the **poster** attribute is set.
 - [ ] It will display nothing unless the **poster** attribute is set.
 - [ ] It will display a black window unless the **poster** attribute is set.
 
@@ -1482,7 +1484,7 @@ As Steve Krug once said, happy talk must die.
 
 - [ ] It has opening and closing tags but no child content.
 - [ ] It display nothing on a website.
-- [x] It has no child content and no closing tag.
+- [ ] It has no child content and no closing tag.
 - [ ] It has child content but no closing tag.
 
 
@@ -1492,7 +1494,7 @@ As Steve Krug once said, happy talk must die.
 
 - [ ] It downloads the script from the server when resources allow.
 - [ ] It runs the script after HTML parsing is complete.
-- [x] It runs the script when the script is ready.
+- [ ] It runs the script when the script is ready.
 - [ ] It pauses the parsing of HTML code while the script runs.
 
 #### ⭐️  What does this code do on a page you are visiting for the first time?
@@ -1502,14 +1504,14 @@ As Steve Krug once said, happy talk must die.
 - [ ] When the **Play** button is pressed, the browser plays the sound over and over again until the user stops it.
 - [ ] The browser plays the sound once automatically in the background. The user has no control over the sound.
 - [ ] The browser plays the sound automatically and continuously in the background. The user may stop the sound at any tune.
-- [x] It does nothing. Modern browsers require some form of interaction before they let a page autoplay with audio.
+- [ ] It does nothing. Modern browsers require some form of interaction before they let a page autoplay with audio.
 
 #### ⭐️  In this code, what is the purpose of defer?
 
 `<script defer src="myscript.js"></script>`
 
 - [ ] It downloads the script from the server when resources allow.
-- [x] It runs the script after HTML parsing is complete.
+- [ ] It runs the script after HTML parsing is complete.
 - [ ] It runs the script when the script is ready.
 - [ ] It pauses the parsing of HTML code while the script runs.
 
@@ -1518,7 +1520,7 @@ As Steve Krug once said, happy talk must die.
 
 - [ ] For blog posts and other social media items
 - [ ] For the main content area of your website
-- [x] When the content stands alone as a unit, is suitable for syndication, or is reusable
+- [ ] When the content stands alone as a unit, is suitable for syndication, or is reusable
 - [ ] To associate comments with a blog post
 
 
@@ -1548,7 +1550,7 @@ As Steve Krug once said, happy talk must die.
 <title>
 ```
 
-- [x] D
+- [ ] D
 
 ```html
 <wbr />
@@ -1561,7 +1563,7 @@ As Steve Krug once said, happy talk must die.
 
 ![Image of footer](images/ss-8.png)
 
-- [x] A
+- [ ] A
 
 ```html
 <h4>Mailing Address</h4>
@@ -1617,21 +1619,21 @@ As Steve Krug once said, happy talk must die.
 ```
 
 - [ ] when there is no JavaScript used on this webpage
-- [x] when JavaScript is not supported by the browser or if JavaScript is disabled in the browser
+- [ ] when JavaScript is not supported by the browser or if JavaScript is disabled in the browser
 - [ ] when JavaScript is disabled in the web browser
 - [ ] when JavaScript is not supported by the web browser
 
 
 #### ⭐️  What is the difference between the `<svg>` and `<canvas>`?
 
-- [x] `<svg>` produces vector graphics, while `<canvas>` produces raster graphics.
+- [ ] `<svg>` produces vector graphics, while `<canvas>` produces raster graphics.
 - [ ] `<svg>` integrates with JavaScript, while `<canvas>` does not.
 - [ ] `<svg>` produces raster graphics, while `<canvas>` produces vector graphics.
 - [ ] `<svg>` cannot be used as a background image, while `<canvas>` can be used as a background
 
 #### ⭐️  What is the difference between the _readonly_ and _disabled_ attributes for the `<textarea>` element?
 
-- [x] _readonly_ allows clicking in the `<textarea>` element. _disabled_ prevents all interaction with the control.
+- [ ] _readonly_ allows clicking in the `<textarea>` element. _disabled_ prevents all interaction with the control.
 - [ ] _readonly_ is invalid attribute for `<textarea>`, while _disabled_ is a valid attribute.
 - [ ] _disabled_ allows clicking in the `<textarea>` element. _readonly_ prevents all interaction with the control.
 - [ ] _disabled_ is invalid attribute for `<textarea>`, while _readonly_ is a valid attribute.
@@ -1650,7 +1652,7 @@ As Steve Krug once said, happy talk must die.
 <button action="http://example.com/process">Process data</button>
 ```
 
-- [x] C
+- [ ] C
 
 ```html
 <button formaction="http://example.com/process">Process data</button>
@@ -1665,7 +1667,7 @@ As Steve Krug once said, happy talk must die.
 
 #### ⭐️  What is the default method for form submission?
 
-- [x] GET 
+- [ ] GET 
 - [ ] POST
 - [ ] PUT
 - [ ] SUBMIT
@@ -1674,13 +1676,13 @@ As Steve Krug once said, happy talk must die.
 #### ⭐️  What is the purpose of `<caption>`?
 
 - [ ] `<caption>` provides captions for `<audio>`,`<video>`,`<img>`, and `<table>`.
-- [x] `<caption>` provides captions to `<table>`.
+- [ ] `<caption>` provides captions to `<table>`.
 - [ ] `<caption>` provides captions for `<audio>`, `<video>`, and `<table>`.
 - [ ] `<caption>` provides captions for `<img>`, `<audio>`, and `<video>`.
 
 #### ⭐️  The value attribute is associated with which set of tags ?
 
-- [x] A
+- [ ] A
 
 ```html
 <li>
@@ -1716,7 +1718,7 @@ As Steve Krug once said, happy talk must die.
 
 - [ ] `<head class="Page Section Information" id="head"><title>Page Title</title></head>`
 - [ ] `<head><title>Page Title</title> <img src="favicon.icon" alt=""></head>`
-- [x] `<head><title>Page Title</title> <data value="email">email@example.com</data></head>`
+- [ ] `<head><title>Page Title</title> <data value="email">email@example.com</data></head>`
 - [ ] `<head><title>Page Title</title><address>email@example.com</address></head>`
 
 
@@ -1724,7 +1726,7 @@ As Steve Krug once said, happy talk must die.
 
 - [ ] `access`; allow
 - [ ] `designMode`; true
-- [x] `contenteditable`; true
+- [ ] `contenteditable`; true
 - [ ] `contenteditable`; yes
 
 `The contenteditable global attribute is an enumerated attribute indicating if the element should be editable by the user. If so, the browser modifies its widget to allow editing. The attribute must take one of the following values: true or an empty string, which indicates that the element is editable; false, which indicates that the element is not editable.`
@@ -1734,7 +1736,7 @@ As Steve Krug once said, happy talk must die.
 
 - [ ] `<input type="invisible" name="important" value="information">`
 - [ ] `<input type="text" style="display: none;" name="important" value="information">`
-- [x] `<input type="hidden" name="important" value="information">`
+- [ ] `<input type="hidden" name="important" value="information">`
 - [ ] `<input type="text" hidden name="important" value="information">`
 
 #### ⭐️  What is the semantic way to add an identifying title to a table?
@@ -1742,7 +1744,7 @@ As Steve Krug once said, happy talk must die.
 - [ ] `<table><label>Heading</label>...</table>`
 - [ ] `<table><title>Heading</title>...</table>`
 - [ ] `<table><legend>Heading</legend>...</table>`
-- [x] `<table><caption>Heading</caption>...</table>`
+- [ ] `<table><caption>Heading</caption>...</table>`
 
 
 
@@ -1750,12 +1752,12 @@ As Steve Krug once said, happy talk must die.
 
 - [ ] `<style media="light-mode: false">/* CSS code */</style>`
 - [ ] `<style media="color-mode: dark">/* CSS code */</style>`
-- [x] `<style media="prefers-color-scheme: dark">/* CSS code */</style>`
+- [ ] `<style media="prefers-color-scheme: dark">/* CSS code */</style>`
 - [ ] `<style media="color-scheme: dark">/* CSS code */</style>`
 
 #### ⭐️  How would you mark up a header for a table row?
 
-- [x] A
+- [ ] A
 
 ```html
 <table>
@@ -1811,7 +1813,7 @@ As Steve Krug once said, happy talk must die.
 
 - [ ] The `<main>` element represents the dominant content of an `<article>` in a document.
 - [ ] The `<main>` element represents the dominant content of a `<section>` of a document. You may have one `<main>` element per section.
-- [x] The `<main>` element represents the dominant content of your document. There can be only one `<main>` element that is not hidden.
+- [ ] The `<main>` element represents the dominant content of your document. There can be only one `<main>` element that is not hidden.
 - [ ] The `<article>` element represents the dominant content of your document. There can be only one `<article>` element that is not hidden.
 
 
@@ -1832,7 +1834,7 @@ As Steve Krug once said, happy talk must die.
 
 - [ ] The form element is disabled.
 - [ ] There is no <input type="submit"> element.
-- [x] The fieldset is disabled.
+- [ ] The fieldset is disabled.
 - [ ] There is no method set on the form.
 
 
@@ -1842,19 +1844,19 @@ As Steve Krug once said, happy talk must die.
 
 - [ ] `<break>`
 - [ ] `<lb>`
-- [x] `<br>`
+- [ ] `<br>`
 - [ ] `<a>`
 
 #### ⭐️  The HTML global attribute, "contenteditable" is used to
 
 - [ ] Update content from the server
 - [ ] Specifies a context menu for an element. The menu appears when a user right-clicks on the element.
-- [x] Specify whether the content of an element should be editable or not
+- [ ] Specify whether the content of an element should be editable or not
 - [ ] Return the position of the first found occurrence of content inside a string
 
 #### ⭐️  HTML elements that aren't meant to store content or other elements are called **\_** elements
 
-- [x] void
+- [ ] void
 - [ ] independent
 - [ ] empty
 - [ ] paragraph
@@ -1865,7 +1867,7 @@ As Steve Krug once said, happy talk must die.
 - [ ] to
 - [ ] of
 - [ ] with
-- [x] for
+- [ ] for
 
 
 
@@ -1876,13 +1878,13 @@ As Steve Krug once said, happy talk must die.
 - [ ] `<link rel="stylesheet" href="/styles for me/styles.css">`
 - [ ] `<link rel="stylesheet" href="/styles|for|me/styles.css">`
 - [ ] `<link rel="css" href="\styles for me\styles.css">`
-- [x] `<link rel="stylesheet" href="/styles%20for%20me/styles.css">`
+- [ ] `<link rel="stylesheet" href="/styles%20for%20me/styles.css">`
 
 
 #### ⭐️  Which example is missing a mandatory closing tag, making it invalid?
 
 - [ ] `<p>Simple paragraph`
-- [x] `<ul><li>Simple list</li>`
+- [ ] `<ul><li>Simple list</li>`
 - [ ] `<ul><li>Simple list<ul>`
 - [ ] `<dl><dt>Simple term<dd>Simple description</dl>`
 
@@ -1892,7 +1894,7 @@ As Steve Krug once said, happy talk must die.
 - [ ] `<video src="video.mp4" caption="video.vtt"></video>`
 - [ ] `<video src="video.mp4"><track caption="video.vtt" /></video>`
 - [ ] `<video src="video.mp4"><track default kind="captions" srclang="en" src="video.vtt" /></video>`
-- [x] `<video src="video.mp4"><caption default srclang="en" src="video.vtt" /></video>`
+- [ ] `<video src="video.mp4"><caption default srclang="en" src="video.vtt" /></video>`
 
 
 #### ⭐️  A white paper has a sidebar and endnotes, both of which are complementary to the main text. How would you mark them up to make their distinct roles more broadly accessible?
@@ -1904,7 +1906,7 @@ As Steve Krug once said, happy talk must die.
 label="Endnotes">Endnotes...</custom-footnote>
 ```
 
-- [x] B
+- [ ] B
 
 ```html
 <aside role="sidebar">Sidebar...</aside><aside role="notes"»Endnotes...</aside>
@@ -1926,7 +1928,7 @@ label="Endnotes">Endnotes...</custom-footnote>
 
 #### ⭐️  Which video example will autoplay in most browsers?
 
-- [x] `<video src="video.mp4" autoplay muted></video>`
+- [ ] `<video src="video.mp4" autoplay muted></video>`
 - [ ] `<video src="video.mp4" background></video>`
 - [ ] `<video src="video.mp4" autoplay></video>`
 - [ ] `<video src="video.mp4" autoplay="force"></video>`
@@ -1938,6 +1940,6 @@ label="Endnotes">Endnotes...</custom-footnote>
 - [ ] `<html:a href="/our-circle/"><circle cx="10" cy="10" r="5"/></html:a>`
 - [ ] `<a svg:href="/our-circle/"><circle cx="10" cy="10" r="5"/></a>`
 - [ ] `<a href="/our-circle/"><circle cx="10" cy="10" r="5"/></a>`
-- [x] `<a href="/our-circle/" xlink:href="/our-circle/"><circle cx="10" cy="10" r="5"/></a>`
+- [ ] `<a href="/our-circle/" xlink:href="/our-circle/"><circle cx="10" cy="10" r="5"/></a>`
 
 
