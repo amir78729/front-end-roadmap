@@ -307,8 +307,6 @@ In this article, a number of useful links for learning front-end development hav
 - [MDN - CSS guidelines](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/CSS)
 - [Speckyboy - Good and bad CSS practices](https://speckyboy.com/good-bad-css-practices/)
 
----
-
 #### 📚 Reference
 
 <div align="center">
@@ -318,6 +316,8 @@ In this article, a number of useful links for learning front-end development hav
 **[CSS in depth](https://www.manning.com/books/css-in-depth)** ([file](/assets/books/css-in-depth.pdf))
 
 </div>
+
+---
 
 ### JS
 
