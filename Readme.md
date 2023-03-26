@@ -313,9 +313,14 @@ In this article, a number of useful links for learning front-end development hav
 
 <div align="center">
 
-<img src="https://images.manning.com/book/1/05a18b1-751e-4bcd-9d61-71757f0d2d54/Grant-CSS-HI.png" alt="css in depth" width="500">
 
-<h5>[CSS in depth](https://www.manning.com/books/css-in-depth)</h5> (File is available [Here](/assets/books/css-in-depth.pdf)!)
+<a href="https://www.manning.com/books/css-in-depth" target="_blank">
+  <img src="https://images.manning.com/book/1/05a18b1-751e-4bcd-9d61-71757f0d2d54/Grant-CSS-HI.png" alt="css in depth" width="500">
+</a>
+
+##### CSS in depth
+
+(File is available [Here](/assets/books/css-in-depth.pdf)!)
 
 </div>
 
