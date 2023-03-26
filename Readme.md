@@ -47,6 +47,7 @@ In this article, a number of useful links for learning front-end development hav
       - [Animations](#animations)
       - [CSS Variables](#css-variables)
       - [Best Practices](#best-practices-1)
+    + [Reference](#reference)
   * [JS](#js)
 - [Package Managers](#package-managers)
   * [npm](#npm)
@@ -54,6 +55,7 @@ In this article, a number of useful links for learning front-end development hav
 - [Frameworks](#frameworks)
   * [React](#react)
 - [Introduction of Some Cool Packages](#introduction-of-some-cool-packages)
+
 
 
 
@@ -66,7 +68,7 @@ In this article, a number of useful links for learning front-end development hav
 #### Basics
 
 - [Stanford - How does the Internet Work?](http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
-- [Youtube - How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
+- [YouTube - How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
 
 #### HTTP
 
@@ -81,7 +83,7 @@ In this article, a number of useful links for learning front-end development hav
 > A web browser is a software application that enables a user to access and display web pages or other online content through its graphical user interface.
 
 - [MDN - Populating the page: how browsers work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
-- [Youtube - How Do Web Browsers Work?](https://www.youtube.com/watch?v=WjDrMKZWCt0)
+- [YouTube - How Do Web Browsers Work?](https://www.youtube.com/watch?v=WjDrMKZWCt0)
 
 #### Domain Name
 
@@ -89,7 +91,7 @@ In this article, a number of useful links for learning front-end development hav
 
 
 - [MDN - What is a Domain Name?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_domain_name)
-- [Youtube - A Beginners Guide to How Domain Names Work](https://www.youtube.com/watch?v=Y4cRx19nhJk)
+- [YouTube - A Beginners Guide to How Domain Names Work](https://www.youtube.com/watch?v=Y4cRx19nhJk)
 
 #### DNS
 
@@ -104,7 +106,7 @@ In this article, a number of useful links for learning front-end development hav
 > Web hosting is an online service that allows you to publish your website files onto the internet. So, anyone who has access to the internet has access to your website.
 
 
-- [Youtube - What Is Web Hosting? Explained](https://www.youtube.com/watch?v=htbY9-yggB0)
+- [YouTube - What Is Web Hosting? Explained](https://www.youtube.com/watch?v=htbY9-yggB0)
 
 ---
 
@@ -307,13 +309,13 @@ In this article, a number of useful links for learning front-end development hav
 - [MDN - CSS guidelines](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/CSS)
 - [Speckyboy - Good and bad CSS practices](https://speckyboy.com/good-bad-css-practices/)
 
-#### 📚 Reference
+#### Reference
 
 <div align="center">
 
 <img src="https://images.manning.com/book/1/05a18b1-751e-4bcd-9d61-71757f0d2d54/Grant-CSS-HI.png" alt="css in depth" width="500">
 
-**[CSS in depth](https://www.manning.com/books/css-in-depth)** ([file](/assets/books/css-in-depth.pdf))
+<h5>[CSS in depth](https://www.manning.com/books/css-in-depth)</h5> (File is available [Here](/assets/books/css-in-depth.pdf)!)
 
 </div>
 
