@@ -330,8 +330,68 @@ In this article, a number of useful links for learning front-end development hav
 
 > JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. ([MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript))
 
+#### Syntax
 
-- [...]()
+- [MDN - Javascript First Steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
+- [MDN - Javascript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+- [MDN - Javascript Building Blocks](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks)
+
+##### Spread
+
+- [MDN - Spread syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
+- [Freecodecamp - An introduction to Spread syntax](https://www.freecodecamp.org/news/an-introduction-to-spread-syntax-in-javascript-fba39595922c/)
+- [Object rest and spread properties](https://v8.dev/features/object-rest-spread)
+
+##### Destructing
+
+- [MDN - Destructing assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+- [MDN - ES6 in Depth: Destructing](https://hacks.mozilla.org/2015/05/es6-in-depth-destructuring/)
+
+#### DOM
+
+- [MDN - DOM Introduction](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+- [Freecodecamp - What's the DOM](https://www.freecodecamp.org/news/whats-the-document-object-model-and-why-you-should-know-how-to-use-it-1a2d0bc5429d/)
+- [htmldom.dev](https://htmldom.dev/)
+- [MDN - Locating DOM elements using selectors](https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Locating_DOM_elements_using_selectors)
+
+#### Events
+
+- []()
+
+
+#### Objects
+
+- []()
+
+##### Prototypes
+
+- []()
+
+###### Classes
+
+- []()
+
+#### Regex
+
+- []()
+
+#### Promises
+
+- []()
+
+##### Callbacks
+
+- []()
+
+##### `Async`/`await`
+
+- []()
+
+##### Fetch
+
+- []()
+
+
 
 ---
 
