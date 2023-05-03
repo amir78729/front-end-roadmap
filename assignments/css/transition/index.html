@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <title>Transition</title>
+</head>
+<body>
+    <div id="container" class="on">
+        <div id="switch" onclick="switchOnClick()">
+            <div id="circle">
+                <span>
+                    <img src="./moon.png" alt="moon" id="moon" class="on">
+                    <img src="./sun.png" alt="sun" id="sun" class="on">
+                </span>
+            </div>
+        </div>
+        <p id="label"></p>
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>
