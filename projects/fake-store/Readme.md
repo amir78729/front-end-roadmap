@@ -25,6 +25,10 @@ information about products to display on the product page.
 | **Cart Page**    | `/cart`            |
 
 
+## Postman Collection
+
+The API requests collection in available in the `fake-store.postman_collection.json` file. 
+
 ## Designs
 
 <img src="assets/Login.png">
