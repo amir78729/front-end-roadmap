@@ -31,12 +31,17 @@ The API requests collection in available in the `fake-store.postman_collection.j
 
 ## Designs
 
+### ☀️ Light Mode
+
 <img src="assets/Login.png">
 <img src="assets/Homepage.png">
 <img src="assets/Homepage - category.png">
 <img src="assets/Product - add to cart.png">
 <img src="assets/Product - remove from cart.png">
 <img src="assets/Cart.png">
+
+### 🌑 Dark Mode
+
 <img src="assets/Login (Dark).png">
 <img src="assets/Homepage (Dark).png">
 <img src="assets/Homepage - category (Dark).png">
