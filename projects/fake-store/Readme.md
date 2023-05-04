@@ -15,6 +15,16 @@ To implement the cart functionality, interns will use `localStorage`, a built-in
 data locally in the user's browser. They will also use the [Fake Store API](https://fakestoreapi.com/docs) to get 
 information about products to display on the product page.
 
+## Routes
+
+| Page Name        | Route              |
+|------------------|--------------------|
+| **Login**        | `/`                |
+| **Home Page**    | `/products`        |
+| **Product Page** | `/products?id=:id` |
+| **Cart Page**    | `/cart`            |
+
+
 ## Designs
 
 <img src="assets/Login.png">
