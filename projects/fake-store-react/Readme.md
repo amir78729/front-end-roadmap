@@ -9,6 +9,7 @@ This is a simple online store project built with Vite. The project fetches produ
 - **Product Page**: Shows detailed information about a specific product.
 - **Cart Page**: Displays the list of items in the shopping cart.
 
+
 ## Design
 
 The design should be similar to [Digikala](https://digikala.com), but in English! (because the API results are in English)
@@ -21,6 +22,7 @@ For implementing this project, you should use these packages:
 - **Material-UI**: A popular React UI framework for building responsive web applications.
 - **React Query**: A data-fetching library for React that provides hooks for fetching, caching, and updating asynchronous data.
 - **Sass**: A CSS preprocessor that adds features like variables, nesting, and mixins to CSS.
+- **react-router-dom**: Navigate Between Pages
 
 ## User Stories
 
