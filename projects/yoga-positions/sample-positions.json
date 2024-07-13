@@ -5,7 +5,8 @@
     "englishName": "Boat",
     "video": "https://www.youtube.com/watch?v=QVEINjrYUPU&list=PLtM0YoctczKa2-G6HoX-vSFViYiHFdWhC&index=33&pp=iAQB",
     "persianName": "حرکت قایق",
-    "icon": "https://www.dropbox.com/s/4m64ztxkj8a4dab/boatstraightlegs.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/4m64ztxkj8a4dab/boatstraightlegs.svg?raw=1",
+    "difficulty": 3
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "englishName": "Half-Boat",
     "video": "https://www.youtube.com/watch?v=0495rbXZMQg&list=PLtM0YoctczKa2-G6HoX-vSFViYiHFdWhC&index=11&pp=iAQB",
     "persianName": "حرکت قایق نیمه",
-    "icon": "https://www.dropbox.com/s/1nx0r94msxjwvyp/boatbentlegs.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/1nx0r94msxjwvyp/boatbentlegs.svg?raw=1",
+    "difficulty": 2
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "englishName": "Bow",
     "video": "https://www.youtube.com/watch?v=CZGtSaOvb50&list=PLtM0YoctczKa2-G6HoX-vSFViYiHFdWhC&index=18&pp=iAQB",
     "persianName": "حرکت کمان",
-    "icon": "https://www.dropbox.com/s/wizj5kwxvez4c0a/bow.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/wizj5kwxvez4c0a/bow.svg?raw=1",
+    "difficulty": 4
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "englishName": "Bridge",
     "video": null,
     "persianName": "پل",
-    "icon": "https://www.dropbox.com/s/f1w64ybg4sn8ejt/bridge.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/f1w64ybg4sn8ejt/bridge.svg?raw=1",
+    "difficulty": 2
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "englishName": "Butterfly",
     "video": null,
     "persianName": "پروانه",
-    "icon": "https://www.dropbox.com/s/3h2pts6xbn28dh7/butterfly%3F.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/3h2pts6xbn28dh7/butterfly%3F.svg?raw=1",
+    "difficulty": 1
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "englishName": "Camel",
     "video": "https://www.youtube.com/watch?v=_NNnowkcIqU&list=PLtM0YoctczKa2-G6HoX-vSFViYiHFdWhC&index=14&pp=iAQB",
     "persianName": "-",
-    "icon": "https://www.dropbox.com/s/o5gr4lngltsdg5r/camel.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/o5gr4lngltsdg5r/camel.svg?raw=1",
+    "difficulty": 3
   },
   {
     "id": 7,
@@ -53,7 +59,8 @@
     "englishName": "Cat",
     "video": "https://www.youtube.com/watch?v=LGLIyrfTiUc&list=PLtM0YoctczKa2-G6HoX-vSFViYiHFdWhC&index=46&pp=iAQB",
     "persianName": "گربه",
-    "icon": "https://www.dropbox.com/s/cginnz98of2jpgr/cat.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/cginnz98of2jpgr/cat.svg?raw=1",
+    "difficulty": 1
   },
   {
     "id": 8,
@@ -61,15 +68,17 @@
     "englishName": "Cow",
     "video": null,
     "persianName": "گاو",
-    "icon": "https://www.dropbox.com/s/neau4ceai1rskh6/cow.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/neau4ceai1rskh6/cow.svg?raw=1",
+    "difficulty": 1
   },
   {
     "id": 9,
     "sanskritName": "Utkatasana",
     "englishName": "Chair",
-    "video": "xhttps://www.youtube.com/watch?v=W5KVx0ZbB_4&list=PLtM0YoctczKa2-G6HoX-vSFViYiHFdWhC&index=48&pp=iAQBxx",
-    "persianName": "-",
-    "icon": "https://www.dropbox.com/s/9emlawz8vayk8bm/chair.svg?raw=1"
+    "video": "https://www.youtube.com/watch?v=W5KVx0ZbB_4&list=PLtM0YoctczKa2-G6HoX-vSFViYiHFdWhC&index=48&pp=iAQB",
+    "persianName": "صندلی",
+    "icon": "https://www.dropbox.com/s/9emlawz8vayk8bm/chair.svg?raw=1",
+    "difficulty": 2
   },
   {
     "id": 10,
@@ -77,7 +86,8 @@
     "englishName": "Child's Pose",
     "video": null,
     "persianName": "کودک",
-    "icon": "https://www.dropbox.com/s/ini3uwali0q5gxa/child.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/ini3uwali0q5gxa/child.svg?raw=1",
+    "difficulty": 1
   },
   {
     "id": 11,
@@ -85,7 +95,8 @@
     "englishName": "Corpse",
     "video": "https://www.youtube.com/watch?v=1VYlOKUdylM&list=PLtM0YoctczKa2-G6HoX-vSFViYiHFdWhC&index=4&pp=iAQB",
     "persianName": "جسم بی‌جان",
-    "icon": "https://www.dropbox.com/s/eohyx2crvtjvaxb/sivasana.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/eohyx2crvtjvaxb/sivasana.svg?raw=1",
+    "difficulty": 1
   },
   {
     "id": 12,
@@ -93,7 +104,8 @@
     "englishName": "Crescent Lunge",
     "video": "https://www.youtube.com/watch?v=zaongQlYTto&list=PLtM0YoctczKa2-G6HoX-vSFViYiHFdWhC&index=24&pp=iAQB",
     "persianName": "-",
-    "icon": "https://www.dropbox.com/s/1oc1dqv8mfwo8uj/highlunge.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/1oc1dqv8mfwo8uj/highlunge.svg?raw=1",
+    "difficulty": 3
   },
   {
     "id": 13,
@@ -101,7 +113,8 @@
     "englishName": "Crow",
     "video": "https://www.youtube.com/watch?v=ja2eab4sWlM&list=PLtM0YoctczKa2-G6HoX-vSFViYiHFdWhC&index=37&pp=iAQB",
     "persianName": "کلاغ",
-    "icon": "https://www.dropbox.com/s/ukaxoioh0uooswj/crow.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/ukaxoioh0uooswj/crow.svg?raw=1",
+    "difficulty": 5
   },
   {
     "id": 14,
@@ -109,7 +122,8 @@
     "englishName": "Dolphin",
     "video": "https://www.youtube.com/watch?v=YFm6FVGtbMk&list=PLtM0YoctczKa2-G6HoX-vSFViYiHFdWhC&index=40&pp=iAQB",
     "persianName": "دلفین",
-    "icon": "https://www.dropbox.com/s/px1foombb3v24se/dolphin.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/px1foombb3v24se/dolphin.svg?raw=1",
+    "difficulty": 3
   },
   {
     "id": 15,
@@ -117,7 +131,8 @@
     "englishName": "Downward-Facing Dog",
     "video": "https://www.youtube.com/watch?v=EC7RGJ975iM&list=PLtM0YoctczKa2-G6HoX-vSFViYiHFdWhC&index=34&pp=iAQB",
     "persianName": "سگ سر پایین",
-    "icon": "https://www.dropbox.com/s/75xa1bduu2u5y7d/downdog.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/75xa1bduu2u5y7d/downdog.svg?raw=1",
+    "difficulty": 2
   },
   {
     "id": 16,
@@ -125,15 +140,19 @@
     "englishName": "Eagle",
     "video": "https://www.youtube.com/watch?v=FTWFM-lL5jQ&list=PLtM0YoctczKa2-G6HoX-vSFViYiHFdWhC&index=12&pp=iAQB",
     "persianName": "عفاب",
-    "icon": "https://www.dropbox.com/s/w05qgx7wyxva1y3/eagle.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/w05qgx7wyxva1y3/eagle.svg?raw=1",
+    "difficulty": 3
   },
   {
     "id": 17,
     "sanskritName": "Utthita Hasta Padangusthasana",
     "englishName": "Extended Hand to Toe",
-    "persianName": "-",
+   
+
+ "persianName": "-",
     "video": null,
-    "icon": "https://www.dropbox.com/s/0yk0z7f0a4ni37l/extendedhandtotoe.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/0yk0z7f0a4ni37l/extendedhandtotoe.svg?raw=1",
+    "difficulty": 4
   },
   {
     "id": 18,
@@ -141,7 +160,8 @@
     "englishName": "Extended Side Angle",
     "video": null,
     "persianName": "مثلث نود درجه",
-    "icon": "https://www.dropbox.com/s/yzynxmyb9o7eras/extendedsideangle.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/yzynxmyb9o7eras/extendedsideangle.svg?raw=1",
+    "difficulty": 2
   },
   {
     "id": 19,
@@ -149,7 +169,8 @@
     "englishName": "Forearm Stand",
     "video": "https://www.youtube.com/watch?v=YFm6FVGtbMk&list=PLtM0YoctczKa2-G6HoX-vSFViYiHFdWhC&index=40&pp=iAQB",
     "persianName": "حرکت طاووس پر‌باز",
-    "icon": "https://www.dropbox.com/s/kjlyju4m91qgoi6/forearmstand.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/kjlyju4m91qgoi6/forearmstand.svg?raw=1",
+    "difficulty": 5
   },
   {
     "id": 20,
@@ -157,7 +178,8 @@
     "englishName": "Forward Bend with Shoulder Opener",
     "video": null,
     "persianName": "خم به جلو ایستاده",
-    "icon": "https://www.dropbox.com/s/sjqfq99pqpelv4v/forwardfoldshoulderstretch.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/sjqfq99pqpelv4v/forwardfoldshoulderstretch.svg?raw=1",
+    "difficulty": 2
   },
   {
     "id": 21,
@@ -165,7 +187,8 @@
     "englishName": "Half-Moon",
     "video": "https://www.youtube.com/watch?v=csErxVR7dpA&list=PLtM0YoctczKa2-G6HoX-vSFViYiHFdWhC&index=44&pp=iAQB",
     "persianName": "نیمه ماه",
-    "icon": "https://www.dropbox.com/s/gpumf9eehr8wo9g/halfmoon.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/gpumf9eehr8wo9g/halfmoon.svg?raw=1",
+    "difficulty": 3
   },
   {
     "id": 22,
@@ -173,7 +196,8 @@
     "englishName": "Handstand",
     "video": "https://www.youtube.com/watch?v=9u6wuuODdZo&list=PLtM0YoctczKa2-G6HoX-vSFViYiHFdWhC&index=31&pp=iAQB",
     "persianName": "ایستادن روی دست‌ها",
-    "icon": "https://www.dropbox.com/s/p7pf5j0untktn9c/handstand.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/p7pf5j0untktn9c/handstand.svg?raw=1",
+    "difficulty": 5
   },
   {
     "id": 23,
@@ -181,7 +205,8 @@
     "englishName": "Low Lunge",
     "video": "https://www.youtube.com/watch?v=zaongQlYTto&list=PLtM0YoctczKa2-G6HoX-vSFViYiHFdWhC&index=24&pp=iAQB",
     "persianName": "جهش کوچک",
-    "icon": "https://www.dropbox.com/s/h0ehjaz1wa9xfu1/lowlunge.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/h0ehjaz1wa9xfu1/lowlunge.svg?raw=1",
+    "difficulty": 2
   },
   {
     "id": 24,
@@ -189,7 +214,8 @@
     "englishName": "Pigeon",
     "video": "https://www.youtube.com/watch?v=AlMHOGrE4uU&list=PLtM0YoctczKa2-G6HoX-vSFViYiHFdWhC&index=15&pp=iAQB",
     "persianName": "کبوتر",
-    "icon": "https://www.dropbox.com/s/77peru289zm446u/pigeon.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/77peru289zm446u/pigeon.svg?raw=1",
+    "difficulty": 3
   },
   {
     "id": 25,
@@ -197,7 +223,8 @@
     "englishName": "King Pigeon",
     "video": "https://www.youtube.com/watch?v=U2oimBogB4k&list=PLtM0YoctczKa2-G6HoX-vSFViYiHFdWhC&index=26&pp=iAQB",
     "persianName": "کبوتر شاه",
-    "icon": "https://www.dropbox.com/s/10usd0gcqgy6o53/kingpigeon.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/10usd0gcqgy6o53/kingpigeon.svg?raw=1",
+    "difficulty": 4
   },
   {
     "id": 26,
@@ -205,7 +232,8 @@
     "englishName": "Plank",
     "video": "https://www.youtube.com/watch?v=MGj1eknWWTo&list=PLtM0YoctczKa2-G6HoX-vSFViYiHFdWhC&index=19&pp=iAQB",
     "persianName": "پلانک",
-    "icon": "https://www.dropbox.com/s/jg6ge8zpaltx10f/plank.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/jg6ge8zpaltx10f/plank.svg?raw=1",
+    "difficulty": 3
   },
   {
     "id": 27,
@@ -213,7 +241,8 @@
     "englishName": "Plow",
     "video": "https://www.youtube.com/watch?v=guM2w_i55Vw&list=PLtM0YoctczKa2-G6HoX-vSFViYiHFdWhC&index=28&pp=iAQB",
     "persianName": "گاو‌آهن",
-    "icon": "https://www.dropbox.com/s/zi9231wbajm6d2m/plow.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/zi9231wbajm6d2m/plow.svg?raw=1",
+    "difficulty": 3
   },
   {
     "id": 28,
@@ -221,7 +250,8 @@
     "englishName": "Pyramid",
     "video": null,
     "persianName": "هرم",
-    "icon": "https://www.dropbox.com/s/j7p2600bmf840e0/pyramid.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/j7p2600bmf840e0/pyramid.svg?raw=1",
+    "difficulty": 2
   },
   {
     "id": 29,
@@ -229,7 +259,8 @@
     "englishName": "Reverse Warrior",
     "video": null,
     "persianName": "جنگجوی برعکس",
-    "icon": "https://www.dropbox.com/s/q6yn6cb9fglo0wp/reverswarrior.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/q6yn6cb9fglo0wp/reverswarrior.svg?raw=1",
+    "difficulty": 3
   },
   {
     "id": 30,
@@ -237,7 +268,8 @@
     "englishName": "Seated Forward Bend",
     "video": null,
     "persianName": "کشش کامل پشت",
-    "icon": "https://www.dropbox.com/s/ji0otecqx42by00/seatedforwardfold.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/ji0otecqx42by00/seatedforwardfold.svg?raw=1",
+    "difficulty": 2
   },
   {
     "id": 31,
@@ -245,7 +277,8 @@
     "englishName": "Lotus",
     "video": null,
     "persianName": "نیلوفر آبی",
-    "icon": "https://www.dropbox.com/s/0oylivjwzuj5fnp/seatedORlotus.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/0oylivjwzuj5fnp/seatedORlotus.svg?raw=1",
+    "difficulty": 3
   },
   {
     "id": 32,
@@ -253,7 +286,8 @@
     "englishName": "Half Lord of the Fishes",
     "video": null,
     "persianName": "پیچ ماهی",
-    "icon": "https://www.dropbox.com/s/u9joi8lbntxumyh/seatedspinaltwist.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/u9joi8lbntxumyh/seatedspinaltwist.svg?raw=1",
+    "difficulty": 3
   },
   {
     "id": 33,
@@ -261,15 +295,19 @@
     "englishName": "Shoulder Stand",
     "video": "https://www.youtube.com/watch?v=UjHTOW9x3WM&list=PLtM0YoctczKa2-G6HoX-vSFViYiHFdWhC&index=47&pp=iAQB",
     "persianName": "ایستادن روی شانه‌ها",
-    "icon": "https://www.dropbox.com/s/tqj48exec3zub2u/shoulderstand.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/tqj48exec3zub2u/shoulderstand.svg?raw=1",
+    "difficulty": 4
   },
   {
     "id": 34,
     "sanskritName": "Vasishtasana",
     "englishName": "Side Plank",
-    "video": "https://www.youtube.com/watch?v=_ByCVx-WxfQ&list=PLtM0YoctczKa2-G6HoX-vSFViYiHFdWhC&index=41&pp=iAQB",
+    "video": "https://www.youtube.com/watch?v=_ByCVx-WxfQ&list=PLtM0YoctczKa2-G6HoX-vSFViYiHFdWhC&index
+
+=41&pp=iAQB",
     "persianName": "پلانک رو به کنار",
-    "icon": "https://www.dropbox.com/s/w35ciia4u570xj8/sideplank.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/w35ciia4u570xj8/sideplank.svg?raw=1",
+    "difficulty": 4
   },
   {
     "id": 35,
@@ -277,7 +315,8 @@
     "englishName": "Sphinx",
     "video": null,
     "persianName": "ابوالهول",
-    "icon": "https://www.dropbox.com/s/cl8teqpf9yingwm/sphinx.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/cl8teqpf9yingwm/sphinx.svg?raw=1",
+    "difficulty": 1
   },
   {
     "id": 36,
@@ -285,7 +324,8 @@
     "englishName": "Split",
     "video": "https://www.youtube.com/watch?v=3ir0DFG5oMQ&list=PLtM0YoctczKa2-G6HoX-vSFViYiHFdWhC&index=2&pp=iAQB",
     "persianName": "رب النوع میمون",
-    "icon": "https://www.dropbox.com/s/u8dxhc41hjfcxj6/splits.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/u8dxhc41hjfcxj6/splits.svg?raw=1",
+    "difficulty": 5
   },
   {
     "id": 37,
@@ -293,7 +333,8 @@
     "englishName": "Squat",
     "video": null,
     "persianName": "چمباتمه",
-    "icon": "https://www.dropbox.com/s/ntrwtdlr6tdkdxz/squat.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/ntrwtdlr6tdkdxz/squat.svg?raw=1",
+    "difficulty": 1
   },
   {
     "id": 38,
@@ -301,7 +342,8 @@
     "englishName": "Standing Forward Bend",
     "video": null,
     "persianName": "خم به جلو ایستاده",
-    "icon": "https://www.dropbox.com/s/u09snmhtposvaq0/standingforwardfold.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/u09snmhtposvaq0/standingforwardfold.svg?raw=1",
+    "difficulty": 1
   },
   {
     "id": 39,
@@ -309,7 +351,8 @@
     "englishName": "Crescent Moon",
     "video": null,
     "persianName": "حلال ماه",
-    "icon": "https://www.dropbox.com/s/9tv6z3qdcw2vg3a/standingstretch.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/9tv6z3qdcw2vg3a/standingstretch.svg?raw=1",
+    "difficulty": 2
   },
   {
     "id": 40,
@@ -317,7 +360,8 @@
     "englishName": "Side Splits",
     "video": null,
     "persianName": "سر به زمین، نشسته با پاهای باز",
-    "icon": "https://www.dropbox.com/s/6z51vzosovhx5w7/straddlesplit.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/6z51vzosovhx5w7/straddlesplit.svg?raw=1",
+    "difficulty": 4
   },
   {
     "id": 41,
@@ -325,7 +369,8 @@
     "englishName": "Tree",
     "video": "https://www.youtube.com/watch?v=Fr5kiIygm0c&list=PLtM0YoctczKa2-G6HoX-vSFViYiHFdWhC&index=27&pp=iAQB",
     "persianName": "درخت",
-    "icon": "https://www.dropbox.com/s/mn2ktlihp12mtfa/tree.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/mn2ktlihp12mtfa/tree.svg?raw=1",
+    "difficulty": 2
   },
   {
     "id": 42,
@@ -333,7 +378,8 @@
     "englishName": "Triangle",
     "video": null,
     "persianName": "مثلث",
-    "icon": "https://www.dropbox.com/s/l41pfqjwmjoy5os/triangle.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/l41pfqjwmjoy5os/triangle.svg?raw=1",
+    "difficulty": 2
   },
   {
     "id": 43,
@@ -341,7 +387,8 @@
     "englishName": "Upward-Facing Dog",
     "video": "https://www.youtube.com/watch?v=pVmOOluGAv8&list=PLtM0YoctczKa2-G6HoX-vSFViYiHFdWhC&index=30&pp=iAQB",
     "persianName": "سگ سر بالا",
-    "icon": "https://www.dropbox.com/s/vnfx1srlwt1583t/updog.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/vnfx1srlwt1583t/updog.svg?raw=1",
+    "difficulty": 2
   },
   {
     "id": 44,
@@ -349,7 +396,8 @@
     "englishName": "Warrior One",
     "video": "https://www.youtube.com/watch?v=NytDpa2r34g&list=PLtM0YoctczKa2-G6HoX-vSFViYiHFdWhC&index=32&pp=iAQB",
     "persianName": "جنگجوی یک",
-    "icon": "https://www.dropbox.com/s/j9fip5gm1o1l3fx/warrior1.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/j9fip5gm1o1l3fx/warrior1.svg?raw=1",
+    "difficulty": 3
   },
   {
     "id": 45,
@@ -357,7 +405,8 @@
     "englishName": "Warrior Two",
     "video": "https://www.youtube.com/watch?v=Mn6RSIRCV3w&list=PLtM0YoctczKa2-G6HoX-vSFViYiHFdWhC&index=25&pp=iAQB",
     "persianName": "جنگجوی دو",
-    "icon": "https://www.dropbox.com/s/rsb3mx41dfq4otl/warrior2.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/rsb3mx41dfq4otl/warrior2.svg?raw=1",
+    "difficulty": 3
   },
   {
     "id": 46,
@@ -365,7 +414,8 @@
     "englishName": "Warrior Three",
     "video": "https://www.youtube.com/watch?v=uEc5hrgIYx4&list=PLtM0YoctczKa2-G6HoX-vSFViYiHFdWhC&index=22&pp=iAQB",
     "persianName": "جنگجوی سه",
-    "icon": "https://www.dropbox.com/s/lwgoky3z37ameif/warrior3.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/lwgoky3z37ameif/warrior3.svg?raw=1",
+    "difficulty": 4
   },
   {
     "id": 47,
@@ -373,7 +423,8 @@
     "englishName": "Wheel",
     "video": "https://www.youtube.com/watch?v=DPiW5pN1jQM&list=PLtM0YoctczKa2-G6HoX-vSFViYiHFdWhC&index=7&pp=iAQB",
     "persianName": "چرخ",
-    "icon": "https://www.dropbox.com/s/kpa1bewuut3lm5q/wheel.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/kpa1bewuut3lm5q/wheel.svg?raw=1",
+    "difficulty": 4
   },
   {
     "id": 48,
@@ -381,6 +432,7 @@
     "englishName": "Wild Thing",
     "video": "https://www.youtube.com/watch?v=CWS240CGV00&list=PLtM0YoctczKa2-G6HoX-vSFViYiHFdWhC&index=16&pp=iAQB",
     "persianName": null,
-    "icon": "https://www.dropbox.com/s/d1dbdvo4l7xry4w/downdogflip.svg?raw=1"
+    "icon": "https://www.dropbox.com/s/d1dbdvo4l7xry4w/downdogflip.svg?raw=1",
+    "difficulty": 4
   }
 ]
